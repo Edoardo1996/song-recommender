@@ -7,11 +7,13 @@ import spotipy
 import pandas as pd
 from spotipy.oauth2 import SpotifyClientCredentials
 from tqdm import tqdm
+import itertools
 
 class SpotifyClient:
     """
     Simple class that accepts a CLIENT_ID and CLIENT_SECRET,
-    they can be specified in constructor or set up manually"""
+    they can be specified in constructor or set up manually
+    """
 
     def __init__(self, *args):
         if len(args) == 0:
@@ -107,3 +109,22 @@ def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.
         playlist_df = pd.concat([playlist_df, track_df], ignore_index = True)
         
     return playlist_df
+
+def retrieve_artists_id(sp:spotipy.Spotify, songs: pd.DataFrame) -> list:
+    """
+    Retrieve artists id from a songs database saved as pd.DataFrame
+    """
+    tracks_ids = songs.index
+
+    # Slice the list in order to bypass Spotify API limits
+    sliced_tracks_ids = list(zip(*(iter(tracks_ids),) * 50))
+
+    artist_ids = list()
+    for i in (pbar := tqdm(range(len(sliced_tracks_ids)))):
+        pbar.set_description("Retrieving artists ids")
+        raw_tracks = sp.tracks(sliced_tracks_ids[i])["tracks"]
+        raw_artists = [track.get("artists") for track in raw_tracks]
+        artist_ids_raw = [[artist.get("id") for artist in raw_artist] for raw_artist in raw_artists]
+        artist_ids.extend(itertools.chain(*artist_ids_raw))
+    
+    return list(set(artist_ids))
