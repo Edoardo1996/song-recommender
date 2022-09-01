@@ -74,7 +74,7 @@ def retrieve_playlists(sp: spotipy.Spotify, creator: str, offset: int = None) ->
 
     return playlists_ids
 
-def analyze_playlist(sp: spotipy.Spotify, creator, playlist_id) -> pd.DataFrame:
+def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.DataFrame:
     
     # Create empty dataframe
     playlist_features_list = ["artist","album","track_name",  "track_id","danceability","energy","key","loudness","mode", "speechiness","instrumentalness","liveness","valence","tempo", "duration_ms","time_signature"]
