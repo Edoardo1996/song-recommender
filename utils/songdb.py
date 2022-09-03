@@ -128,3 +128,57 @@ def retrieve_artists_id(sp:spotipy.Spotify, songs: pd.DataFrame) -> list:
         artist_ids.extend(itertools.chain(*artist_ids_raw))
     
     return list(set(artist_ids))
+
+
+def retrieve_top_10_tracks_ids(sp: spotipy.Spotify, artists_ids):
+    """
+    Retrieves the top 10 songs of an artist or a list
+    of artists
+    """
+    top_ten_tracks_ids = list()
+    for artist_id in (pbar:= tqdm(artists_ids)):
+        pbar.set_description("Retrieving top 10 songs")
+        top_ten_tracks_ids.extend([track.get("id") for track in sp.artist_top_tracks(artist_id)["tracks"]])
+
+    print(f'Retrieved {len(top_ten_tracks_ids)} top 10 songs')
+    return list(set(top_ten_tracks_ids))
+
+def enrich_songs(sp: spotipy.Spotify, top_10_tracks_ids_filtered, songs):
+    """
+    Enrich songs database with top 10 songs for every found artists
+    """
+        # Create empty dataframe
+    playlist_features_list = ["artist","album","track_name",  "track_id","danceability","energy","key","loudness","mode", "speechiness","instrumentalness","liveness","valence","tempo", "duration_ms","time_signature"]
+    
+    enriching_playlist_df = pd.DataFrame(columns = playlist_features_list)
+    
+    # Loop through every track in the top_10_tracks, extract features and append the features to the playlist df
+
+    for track_id in (pabr:= tqdm(top_10_tracks_ids_filtered)):
+        pabr.set_description("Enriching songs")
+        # Create empty dict
+        playlist_features = {}
+        # Get track info
+        track = sp.track(track_id)
+        # Get metadata
+        playlist_features["artist"] = track["artists"][0]["name"]
+        playlist_features["album"] = track["album"]["name"]
+        playlist_features["track_name"] = track["name"]
+        playlist_features["track_id"] = track["id"]
+        try:
+            playlist_features["genres"] = sp.artist(track["album"]["artists"][0]["id"])["genres"][0] # TODO: add genre handling
+        except:
+            playlist_features["genres"] = 'unknown'
+        
+        # Get audio features
+        audio_features = sp.audio_features(track["id"])[0]
+        for feature in playlist_features_list[4:]:
+            playlist_features[feature] = audio_features[feature]
+        
+        # Concat the dfs
+        track_df = pd.DataFrame(playlist_features, index = [0])
+        enriching_playlist_df = pd.concat([enriching_playlist_df, track_df], ignore_index = True)
+
+    # Concat with previous playlist
+    enriching_playlist_df = pd.concat([songs, enriching_playlist_df], ignore_index=True, axis=0)
+    return enriching_playlist_df

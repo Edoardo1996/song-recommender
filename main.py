@@ -39,8 +39,14 @@ def main():
 
     # Retrieve artists ids
     artists_ids = retrieve_artists_id(sp, songs)
-    print(len(artists_ids))
 
+    # Retrieve top 10 tracks ids for each artists
+    top_10_tracks_ids = retrieve_top_10_tracks_ids(sp, artists_ids)
+    top_10_tracks_ids_filtered = [song for song in top_10_tracks_ids if song not in list(songs.index)] # filter tracks ids
+
+    # Enrich the database with the retrieved top 10 songs
+    enriched_songs = enrich_songs(sp, top_10_tracks_ids_filtered, songs)
+    enriched_songs.to_csv(config.ENRICHED_DB_PATH)
 
 
 if __name__ == '__main__':

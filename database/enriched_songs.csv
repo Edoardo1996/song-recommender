@@ -1,0 +1,644 @@
+,artist,album,track_name,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genres,track_id
+0,Harry Styles,As It Was,As It Was,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4,pop,
+1,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain't Worried,0.704,0.797,0,-5.927,1,0.0475,0.000745,0.0546,0.825,139.994,148486,4,dance pop,
+2,Post Malone,Twelve Carat Toothache,I Like You (A Happier Song) (with Doja Cat),0.733,0.67,5,-6.009,1,0.0751,0,0.121,0.472,100.964,192841,4,dfw rap,
+3,Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52","Quevedo: Bzrp Music Sessions, Vol. 52",0.621,0.782,2,-5.548,1,0.044,0.033,0.23,0.55,128.033,198938,4,argentine hip hop,
+4,Lizzo,About Damn Time,About Damn Time,0.836,0.743,10,-6.305,0,0.0656,0,0.335,0.722,108.966,191822,4,dance pop,
+5,BLACKPINK,Pink Venom,Pink Venom,0.798,0.697,0,-7.139,1,0.0891,0,0.259,0.745,90.031,186964,4,k-pop,
+6,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Vegas (From the Original Motion Picture Soundtrack ELVIS),0.801,0.601,8,-7.574,0,0.255,3.23e-05,0.145,0.74,159.969,182907,4,dance pop,
+7,Kate Bush,Hounds of Love (2018 Remaster),Running Up That Hill (A Deal With God) - 2018 Remaster,0.625,0.533,10,-11.903,0,0.0596,0.00266,0.0546,0.139,108.296,300840,4,art pop,
+8,Rosa Linn,SNAP,SNAP,0.565,0.636,0,-8.198,1,0.0638,9.9e-06,0.447,0.525,170.01,179551,4,unknown,
+9,Nicki Minaj,Super Freaky Girl,Super Freaky Girl,0.95,0.891,2,-2.653,1,0.241,1.77e-05,0.309,0.912,133.01,170977,4,dance pop,
+10,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),Left and Right (Feat. Jung Kook of BTS),0.881,0.592,2,-4.898,1,0.0324,1.32e-05,0.0901,0.719,101.058,154487,4,dance pop,
+11,Harry Styles,Harry's House,Late Night Talking,0.714,0.728,10,-4.595,1,0.0468,0,0.106,0.901,114.996,177955,4,pop,
+12,Steve Lacy,Bad Habit,Bad Habit,0.686,0.507,1,-7.097,1,0.0357,7.51e-05,0.383,0.69,168.955,232115,4,afrofuturism,
+13,Nicky Youre,Sunroof,Sunroof,0.768,0.714,10,-5.11,1,0.0401,0,0.15,0.842,131.443,163026,4,unknown,
+14,Rema,Calm Down (with Selena Gomez),Calm Down (with Selena Gomez),0.801,0.806,11,-5.206,1,0.0381,0.000669,0.114,0.802,106.999,239318,4,nigerian pop,
+15,David Guetta,I'm Good (Blue),I'm Good (Blue),0.561,0.965,7,-3.673,0,0.0343,7.07e-06,0.371,0.304,128.04,175238,4,big room,
+16,ROSALÍA,DESPECHÁ,DESPECHÁ,0.919,0.623,7,-6.521,1,0.0992,1.63e-05,0.0609,0.775,130.037,157018,4,r&b en espanol,
+17,Marshmello,Numb,Numb,0.912,0.774,0,-4.673,0,0.0455,0.0127,0.101,0.632,119.966,155589,4,brostep,
+18,Camila Cabello,Bam Bam (feat. Ed Sheeran),Bam Bam (feat. Ed Sheeran),0.756,0.697,8,-6.377,1,0.0401,0,0.333,0.956,94.996,206071,4,dance pop,
+19,Central Cee,Doja,Doja,0.911,0.573,6,-7.43,1,0.288,0,0.403,0.972,140.04,97393,4,drill brasileiro,
+20,Elton John,Hold Me Closer,Hold Me Closer,0.667,0.75,0,-4.602,1,0.0906,0.000198,0.197,0.486,126.041,202246,4,glam rock,
+21,Bad Bunny,Un Verano Sin Ti,Me Porto Bonito,0.911,0.712,1,-5.105,0,0.0817,2.68e-05,0.0933,0.425,92.005,178567,4,latin,
+22,Beyoncé,BREAK MY SOUL,BREAK MY SOUL,0.687,0.887,1,-5.04,0,0.0826,2.21e-06,0.27,0.853,114.941,278282,4,dance pop,
+23,Jack Harlow,First Class,First Class,0.905,0.563,8,-6.135,1,0.102,9.71e-06,0.113,0.324,106.998,173948,4,deep underground hip hop,
+24,DJ Khaled,GOD DID,BEAUTIFUL (feat. Future & SZA),0.489,0.55,6,-6.729,1,0.233,0,0.118,0.241,171.882,223233,4,hip hop,
+25,Yung Gravy,Betty (Get Money),Betty (Get Money),0.723,0.772,1,-6.784,1,0.0792,1.15e-05,0.367,0.58,102.004,146471,4,minnesota hip hop,
+26,The Kid LAROI,STAY (with Justin Bieber),STAY (with Justin Bieber),0.591,0.764,1,-5.484,1,0.0483,0,0.103,0.478,169.928,141806,4,australian hip hop,
+27,Rex Orange County,WHO CARES?,THE SHADE,0.898,0.509,5,-7.973,1,0.062,0,0.0876,0.727,119.869,181507,4,bedroom pop,
+28,Burna Boy,"Love, Damini",Last Last,0.795,0.565,3,-4.457,0,0.0948,0,0.0802,0.55,87.925,172342,4,afro dancehall,
+29,Joji,Glimpse of Us,Glimpse of Us,0.44,0.317,8,-9.258,1,0.0531,4.78e-06,0.141,0.268,169.914,233456,3,viral pop,
+30,Doja Cat,Planet Her,Woman,0.824,0.764,5,-4.175,0,0.0854,0.00294,0.117,0.881,107.998,172627,4,dance pop,
+31,Manuel Turizo,La Bachata,La Bachata,0.835,0.679,7,-5.329,0,0.0364,1.98e-06,0.218,0.85,124.98,162638,4,colombian pop,
+32,benny blanco,Bad Decisions (with BTS & Snoop Dogg),Bad Decisions (with BTS & Snoop Dogg),0.762,0.861,0,-3.296,1,0.0955,0,0.264,0.955,120.048,172714,4,electropop,
+33,Imagine Dragons,Bones,Bones,0.773,0.742,5,-3.678,0,0.046,0,0.0754,0.571,114.071,165265,4,modern rock,
+34,Lil Nas X,MONTERO,THATS WHAT I WANT,0.737,0.846,1,-4.51,0,0.22,0,0.0486,0.546,87.981,143901,4,lgbtq+ hip hop,
+35,Megan Thee Stallion,Sweetest Pie,Sweetest Pie,0.814,0.628,7,-7.178,1,0.221,0,0.101,0.677,123.977,201334,4,dance pop,
+36,Future,I NEVER LIKED YOU,WAIT FOR U (feat. Drake & Tems),0.463,0.642,1,-4.474,1,0.34,0,0.0686,0.339,83.389,189893,4,atl hip hop,
+37,Justin Bieber,Justice,Ghost,0.604,0.741,2,-5.571,1,0.0475,3.49e-05,0.409,0.473,153.947,153190,4,canadian pop,
+38,NewJeans,NewJeans 1st EP 'New Jeans',Attention,0.811,0.648,10,-3.684,0,0.0368,0,0.0761,0.695,104.988,180067,4,unknown,
+39,Dove Cameron,Boyfriend,Boyfriend,0.345,0.612,7,-6.543,0,0.0608,0,0.194,0.232,179.773,153000,3,pop,
+40,Beyoncé,RENAISSANCE,ALIEN SUPERSTAR,0.545,0.641,10,-6.398,0,0.0998,6.59e-05,0.171,0.464,121.892,215460,4,dance pop,
+41,Calvin Harris,"Stay With Me (with Justin Timberlake, Halsey, & Pharrell)","Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",0.81,0.733,9,-6.338,1,0.0444,6.73e-06,0.288,0.9,125.975,229283,4,dance pop,
+42,Stephen Sanchez,Until I Found You,Until I Found You,0.539,0.508,10,-6.05,1,0.0288,0,0.174,0.227,101.358,177720,3,gen z singer-songwriter,
+43,Ed Sheeran,=,Shivers,0.788,0.859,2,-2.724,1,0.0856,0,0.0424,0.822,141.02,207853,4,pop,
+44,James Hype,Ferrari,Ferrari,0.847,0.69,1,-7.877,0,0.0493,6e-05,0.0526,0.692,125.004,186662,4,deep groove house,
+45,Latto,777,Big Energy,0.937,0.793,11,-4.431,0,0.115,0,0.341,0.794,106.022,172540,4,pop,
+46,Glass Animals,Dreamland,Heat Waves,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,gauze pop,
+47,Lost Frequencies,Where Are You Now,Where Are You Now,0.671,0.636,6,-8.117,0,0.103,0.000411,0.172,0.262,120.966,148197,4,belgian edm,
+48,Elley Duhé,MIDDLE OF THE NIGHT,MIDDLE OF THE NIGHT,0.41,0.611,4,-8.271,0,0.0467,0,0.116,0.0899,185.727,184448,3,alt z,
+49,KAROL G,PROVENZA,PROVENZA,0.87,0.516,1,-8.006,1,0.0541,0.00823,0.11,0.53,111.005,210200,4,latin,
+50,Lil Baby,Detox,Detox,0.845,0.503,1,-7.021,1,0.334,0,0.116,0.416,147.031,161637,4,atl hip hop,
+51,Offset,CODE (feat. Moneybagg Yo),CODE (feat. Moneybagg Yo),0.599,0.598,4,-7.015,0,0.124,5.01e-05,0.173,0.343,179.49,192428,4,atl hip hop,
+52,Nardo Wick,Who is Nardo Wick?? (Deluxe),Dah Dah DahDah,0.66,0.373,11,-10.234,1,0.595,0,0.106,0.35,167.912,151776,4,florida rap,
+53,DaBaby,WAITRESS,WAITRESS,0.83,0.727,1,-5.338,1,0.0894,0,0.251,0.247,145.901,132018,4,north carolina hip hop,
+54,Key Glock,From Nothing,From Nothing,0.821,0.716,9,-6.514,1,0.301,0,0.154,0.529,125.005,169307,4,hip hop,
+55,DJ Khaled,GOD DID,LET'S PRAY (feat. Don Toliver & Travis Scott),0.62,0.753,1,-7.203,1,0.0424,9.4e-06,0.111,0.0711,156.933,158979,4,hip hop,
+56,Drake,"Honestly, Nevermind",Jimmy Cooks (feat. 21 Savage),0.529,0.673,0,-4.711,1,0.175,2.41e-06,0.093,0.366,165.921,218365,4,canadian hip hop,
+57,NAV,Never Sleep,Never Sleep (with Lil Baby feat. Travis Scott),0.819,0.651,1,-5.829,1,0.169,0,0.122,0.501,139.957,185786,4,canadian hip hop,
+58,Gucci Mane,Look Ma I Did It,Look Ma I Did It,0.82,0.55,0,-7.611,1,0.172,0,0.11,0.391,128.027,207787,3,atl hip hop,
+59,DJ Khaled,GOD DID,BIG TIME (feat. Future & Lil Baby),0.496,0.7,1,-5.199,0,0.284,0,0.103,0.464,107.711,173783,3,hip hop,
+60,Lil Tjay,Beat the Odds,Beat the Odds,0.498,0.625,8,-7.452,0,0.342,0,0.175,0.478,84.821,150000,4,brooklyn drill,
+61,Quavo,Us vs. Them (feat. Gucci Mane),Us vs. Them (feat. Gucci Mane),0.726,0.508,1,-7.67,1,0.0869,0,0.204,0.173,149.979,216013,4,atl hip hop,
+62,Lil Tecca,Treesha,Treesha,0.545,0.545,2,-8.631,1,0.301,0,0.121,0.122,163.847,105693,4,melodic rap,
+63,YoungBoy Never Broke Again,Vette Motors,Vette Motors,0.83,0.644,10,-5.431,0,0.407,0,0.11,0.227,155.103,173419,4,baton rouge rap,
+64,Quavo,HOTEL LOBBY (Unc & Phew),HOTEL LOBBY (Unc & Phew),0.821,0.636,11,-4.479,1,0.169,0,0.233,0.163,127.961,142657,4,atl hip hop,
+65,Lil Baby,U-Digg (feat. 42 Dugg & Veeze),U-Digg (feat. 42 Dugg & Veeze),0.824,0.583,1,-6.537,1,0.147,0,0.266,0.154,147.496,235501,4,atl hip hop,
+66,Kodak Black,Haitian Scarface,Haitian Scarface,0.569,0.459,1,-6.354,0,0.355,0,0.168,0.0649,107.253,145245,5,florida rap,
+67,Yeat,Talk,Talk,0.698,0.763,4,-4.718,0,0.229,0,0.54,0.256,139.998,174857,4,pluggnb,
+68,DJ Khaled,STAYING ALIVE (feat. Drake & Lil Baby),STAYING ALIVE (feat. Drake & Lil Baby),0.718,0.461,4,-7.676,0,0.0797,0,0.283,0.181,129.953,178176,4,hip hop,
+69,Polo G,Distraction,Distraction,0.713,0.689,11,-5.99,1,0.255,0,0.136,0.63,156.934,171319,4,chicago rap,
+70,Roddy Ricch,The Big 3,Real Talk,0.789,0.71,5,-6.165,0,0.0681,0,0.112,0.188,138.033,183187,4,melodic rap,
+71,Lil Durk,7220 (Deluxe),Hear It Back (feat. Moneybagg Yo),0.766,0.485,4,-8.343,0,0.237,0,0.436,0.289,140.055,134908,4,chicago drill,
+72,Lil Uzi Vert,I KNOW,I KNOW,0.821,0.726,1,-5.767,1,0.156,0,0.0564,0.757,134.977,192137,4,melodic rap,
+73,Freddie Gibbs,Too Much (feat. Moneybagg Yo),Too Much (feat. Moneybagg Yo),0.799,0.696,1,-6.621,1,0.134,2.46e-06,0.133,0.414,115.067,188870,4,alternative hip hop,
+74,Cardi B,Hot Shit (feat. Ye & Lil Durk),Hot Shit (feat. Ye & Lil Durk),0.878,0.685,9,-5.28,1,0.225,0,0.0753,0.523,157.003,211649,4,dance pop,
+75,Future,I NEVER LIKED YOU,712PM,0.711,0.686,5,-6.409,0,0.271,0,0.124,0.536,146.971,173187,4,atl hip hop,
+76,Young Dolph,Hall of Fame,Hall of Fame,0.86,0.69,1,-5.807,1,0.185,0,0.162,0.331,137.01,238333,4,hip hop,
+77,Lil Uzi Vert,RED & WHITE,FOR FUN,0.775,0.461,7,-6.594,0,0.124,0,0.0687,0.131,134.028,188060,4,melodic rap,
+78,Internet Money,We All We Got,Falsetto (feat. Lil Tecca),0.763,0.687,6,-6.306,0,0.28,0,0.119,0.203,131.05,135573,4,rap,
+79,Gucci Mane,Dissin the Dead,Dissin the Dead,0.666,0.632,11,-8.72,0,0.123,0,0.35,0.127,129.956,228922,3,atl hip hop,
+80,DJ Drama,I Ain’t Gon Hold Ya,I Ain’t Gon Hold Ya,0.857,0.839,1,-3.585,1,0.284,0,0.179,0.637,110.008,139370,4,dirty south rap,
+81,Hitkidd,F.N.F. (Let's Go),F.N.F. (Let's Go),0.864,0.476,1,-10.068,1,0.436,0,0.374,0.647,157.144,137580,4,memphis hip hop,
+82,SleazyWorld Go,Sleazy Flow (Remix),Sleazy Flow (with Lil Baby) - Remix,0.869,0.298,2,-12.076,1,0.386,0,0.0753,0.178,77.47,161355,4,unknown,
+83,Kendrick Lamar,Mr. Morale & The Big Steppers,Rich Spirit,0.852,0.421,10,-9.153,0,0.208,2.28e-06,0.106,0.457,95.977,202285,4,conscious hip hop,
+84,DDG,If I Want You,If I Want You,0.645,0.456,4,-9.208,0,0.054,0.000125,0.195,0.078,75.027,193101,4,rap,
+85,Yo Gotti,"Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)","Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",0.786,0.637,2,-6.608,1,0.338,0,0.316,0.426,79.986,231085,4,dirty south rap,
+86,SleazyWorld Go,Step 1,Step 1 (with Offset),0.672,0.58,2,-5.66,1,0.234,0,0.103,0.116,111.55,177731,3,unknown,
+87,Lil Durk,7220 (Deluxe),Burglars & Murderers (feat. EST Gee),0.774,0.551,1,-5.862,1,0.0854,0,0.109,0.0858,137.932,160034,4,chicago drill,
+88,42 Dugg,IDGAF,IDGAF,0.514,0.611,4,-8.227,1,0.287,0,0.312,0.311,108.666,138673,5,detroit trap,
+89,Offset,54321,54321,0.934,0.694,9,-4.455,0,0.175,0,0.239,0.464,129.028,182326,4,atl hip hop,
+90,Rod Wave,Beautiful Mind,Yungen (feat. Jack Harlow),0.614,0.744,11,-5.52,1,0.125,1.14e-06,0.173,0.589,146.02,226115,4,florida rap,
+91,Quavo,Big Stunna (feat. Birdman),Big Stunna (feat. Birdman),0.79,0.551,1,-7.538,1,0.0552,0,0.164,0.266,150.054,217613,4,atl hip hop,
+92,Southside,Save Me (feat. Lil Durk),Save Me (feat. Lil Durk),0.779,0.508,1,-9.505,1,0.349,0,0.122,0.385,159.994,173987,4,atl hip hop,
+93,Megan Thee Stallion,Traumazine,Ungrateful (feat. Key Glock),0.94,0.606,1,-5.826,1,0.195,0,0.18,0.507,130.0,154433,4,dance pop,
+94,Trippie Redd,Big 14 (feat. Offset & Moneybagg Yo),Big 14 (feat. Offset & Moneybagg Yo),0.71,0.828,1,-4.725,1,0.0726,0,0.168,0.316,128.027,247458,4,melodic rap,
+95,Rod Wave,Beautiful Mind,Alone,0.596,0.545,3,-6.911,0,0.0368,0,0.0811,0.0923,82.07,191159,4,florida rap,
+96,YoungBoy Never Broke Again,The Last Slimeto,Home Ain't Home (feat. Rod Wave),0.773,0.602,0,-6.777,1,0.173,0,0.125,0.553,82.055,141166,4,baton rouge rap,
+97,JID,The Forever Story,Bruddanem (feat. Lil Durk),0.765,0.501,4,-6.64,0,0.252,0,0.135,0.721,130.173,235424,4,hip hop,
+98,Lost Frequencies,Rise,Rise,0.689,0.612,6,-6.014,1,0.0387,7.77e-06,0.368,0.461,122.076,193018,4,belgian edm,7HXBG0W8gFJwHUh5mVF9tf
+99,Post Malone,Twelve Carat Toothache,Wasting Angels (with The Kid LAROI),0.583,0.43,9,-7.748,1,0.0353,0,0.0867,0.367,84.967,243158,4,dfw rap,2OcSE0EXzgUuqkM1NIJPHJ
+100,Fuego,Una Vaina Loca,Una Vaina Loca,0.811,0.588,1,-3.161,1,0.0464,0.0004,0.0929,0.553,107.022,226187,4,latin,2qEoAz0i6yEz5dPggABcLH
+101,Beyoncé,RENAISSANCE,VIRGO'S GROOVE,0.683,0.85,11,-5.042,0,0.0699,1.09e-06,0.741,0.598,107.988,368758,4,dance pop,0Fl4eWzVaMUOdXcOrj6F1q
+102,Burna Boy,African Giant,On the Low,0.816,0.781,1,-4.237,0,0.0425,0.00928,0.0835,0.937,99.95,185899,4,afro dancehall,1PoJXULCvl03b1fiZmMxmd
+103,Coldplay,Music Of The Spheres,My Universe,0.573,0.711,1,-6.268,0,0.0406,0,0.328,0.47,105.006,226198,4,permanent wave,46HNZY1i7O6jwTA7Slo2PI
+104,Pharrell Williams,Despicable Me 3 (Original Motion Picture Soundtrack),Hug Me,0.842,0.622,0,-5.437,1,0.0967,0,0.33,0.587,139.927,140733,4,unknown,6eVM9lCmIqwGTUOoeH61Lu
+105,Justin Bieber,Justice,Ghost,0.601,0.741,2,-5.569,1,0.0478,2.91e-05,0.415,0.441,153.96,153190,4,canadian pop,6I3mqTwhRpn34SLVafSH7G
+106,Yung Gravy,Snow Cougar,Mr. Clean,0.758,0.701,9,-6.053,1,0.162,6.22e-06,0.114,0.626,106.74,211150,4,minnesota hip hop,5GxnROd93Y7NGt2ci0TwBw
+107,Russ,Are You Entertained (feat. Ed Sheeran),Are You Entertained (feat. Ed Sheeran),0.587,0.61,10,-6.881,0,0.234,0,0.167,0.556,130.063,156083,4,hawaiian hip hop,5bLGQqcpsz5ISWeihZfJnR
+108,Rex Orange County,Pony,Pluto Projector,0.379,0.219,5,-11.196,1,0.0307,0.000691,0.118,0.188,79.786,267520,4,bedroom pop,4EWBhKf1fOFnyMtUzACXEc
+109,Doja Cat,Planet Her,Kiss Me More (feat. SZA),0.764,0.705,8,-3.463,1,0.0284,8.92e-05,0.12,0.781,110.97,208667,4,dance pop,3DarAbFujv6eYNliUTyqtz
+110,Coldplay,Music Of The Spheres,Let Somebody Go,0.592,0.342,0,-8.93,1,0.0339,0.00245,0.11,0.155,130.953,241595,4,permanent wave,4cGqn0E8JCSY9gQllQj4Mf
+111,Elton John,Madman Across The Water,Tiny Dancer,0.414,0.428,0,-11.097,1,0.0278,0.000243,0.148,0.282,145.075,377093,4,glam rock,2TVxnKdb3tqe1nhQWwwZCO
+112,Glass Animals,Dreamland (+ Bonus Levels),I Don't Wanna Talk (I Just Wanna Dance),0.703,0.624,7,-6.228,1,0.0364,5.53e-05,0.299,0.808,131.966,195191,4,gauze pop,2xXPVOKw75Ouju8Qu4SdIA
+113,Selena Gomez,Back To You (From 13 Reasons Why – Season 2 Soundtrack),Back To You - From 13 Reasons Why – Season 2 Soundtrack,0.601,0.724,6,-4.856,1,0.0486,1.68e-06,0.12,0.508,102.061,207905,4,dance pop,4hQ6UGyWQIGJmHSo0J88JW
+114,SZA,Good Days,Good Days,0.436,0.655,1,-8.37,0,0.0583,8.1e-06,0.688,0.412,121.002,279204,4,pop,3YJJjQPAbDT7mGpX3WtQ9A
+115,Imagine Dragons,Enemy (from the series Arcane League of Legends),Enemy - From the series Arcane League of Legends,0.722,0.745,7,-4.164,1,0.256,0,0.419,0.52,77.029,173381,4,modern rock,5UlnuulVAVmmesw4VzqHdG
+116,ROSALÍA,MOTOMAMI,CHICKEN TERIYAKI,0.788,0.4,2,-6.454,1,0.115,0.000141,0.0686,0.558,97.936,122227,4,r&b en espanol,6hH6QJ9ZAO0Z6m7PfvLoXW
+117,Rauw Alejandro,El Efecto,El Efecto,0.849,0.781,0,-4.635,0,0.159,0,0.0801,0.893,84.041,217143,4,puerto rican pop,4SJHHpKhcuXwDsCsPqshXj
+118,Joji,BALLADS 1,SLOW DANCING IN THE DARK,0.515,0.479,3,-7.458,1,0.0261,0.00598,0.191,0.284,88.964,209274,4,viral pop,0rKtyWc8bvkriBthvHKY8d
+119,ALTÉGO,Toxic Pony,Toxic Pony,0.775,0.652,0,-9.906,1,0.152,0.000598,0.105,0.922,143.08,198042,4,unknown,6QHXcb0eFwOKZOZ9bOFmxm
+120,Elton John,Rock Of The Westies,Don't Go Breaking My Heart,0.729,0.844,5,-8.824,1,0.0344,2.87e-06,0.0604,0.777,131.459,275440,4,glam rock,7HW5WIw7ZgZORCzUxv5gW5
+121,Rex Orange County,Apricot Princess,Television / So Far So Good,0.405,0.505,5,-7.75,1,0.0458,0,0.121,0.318,164.971,262600,4,bedroom pop,5OUTFH5acycdnf8OVo21Gv
+122,Khalid,American Teen,Young Dumb & Broke,0.799,0.539,1,-6.351,1,0.0421,1.66e-05,0.165,0.394,136.948,202547,4,pop,5Z3GHaZ6ec9bsiI5BenrbY
+123,Post Malone,beerbongs & bentleys,rockstar (feat. 21 Savage),0.585,0.52,5,-6.136,0,0.0712,7.01e-05,0.131,0.129,159.801,218147,4,dfw rap,0e7ipj03S05BNilyu5bRzt
+124,DJ Khaled,GOD DID,STAYING ALIVE (feat. Drake & Lil Baby),0.677,0.495,4,-7.174,0,0.0821,0,0.319,0.152,129.974,178176,4,hip hop,7Ddk8FhoYKdsVoX9AOCPMm
+125,Bizarrap,"Tiago PZK: Bzrp Music Sessions, Vol. 48","Tiago PZK: Bzrp Music Sessions, Vol. 48",0.656,0.823,1,-3.059,0,0.315,0,0.103,0.755,96.474,160000,4,argentine hip hop,2Gq636OOGgxCTqEuzCZhsa
+126,Lil Nas X,Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again),Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again),0.872,0.422,1,-7.415,0,0.363,0,0.109,0.778,149.956,180666,4,lgbtq+ hip hop,3GbQcjKWT7eVpUfzqwUjxv
+127,Calvin Harris,Funk Wav Bounces Vol. 2,"Stay With Me (with Justin Timberlake, Halsey & Pharrell)",0.81,0.733,9,-6.338,1,0.0444,6.73e-06,0.288,0.9,125.975,229283,4,dance pop,6clzeGvi1CFioMOolbAOlX
+128,Calum Scott,Only Human (Deluxe),Dancing On My Own,0.681,0.174,1,-8.745,1,0.0315,3.35e-05,0.0983,0.231,112.672,260285,4,neo mellow,2BOqDYLOJBiMOXShCV1neZ
+129,Dadju,Cullinan,One Time,0.855,0.532,11,-6.813,1,0.193,0,0.0645,0.928,102.103,189521,4,francoton,0PCyd8O4CkIBcJxmDafTxX
+130,Britney Spears,...Baby One More Time (Digital Deluxe Version),...Baby One More Time,0.759,0.699,0,-5.745,0,0.0307,0.000131,0.443,0.907,92.96,211067,4,dance pop,3MjUtNVVq3C8Fn0MP3zhXa
+131,Justin Timberlake,Justified,Cry Me a River,0.624,0.654,8,-6.582,0,0.183,0,0.104,0.564,73.898,288333,4,dance pop,7Lf7oSEVdzZqTA0kEDSlS5
+132,Central Cee,Wild West,Commitment Issues,0.8,0.71,5,-6.403,0,0.295,0,0.339,0.795,147.171,150664,4,drill brasileiro,0UCKUJU94sx8XBQnaNsRkB
+133,88rising,Head In The Clouds,Midsummer Madness,0.409,0.678,9,-7.731,1,0.0878,4.76e-06,0.167,0.168,89.968,280842,4,asian american hip hop,6TodWdTSDfzwgYynTZSvJn
+134,Khalid,Skyline,Skyline,0.733,0.653,11,-6.094,1,0.0391,0.0218,0.184,0.752,119.996,182895,5,pop,1QxIFMs4M8qd5cbJJu80v4
+135,Ozuna,Enoc,Una Locura,0.714,0.761,5,-4.596,0,0.0427,0.00035,0.241,0.906,168.022,230693,4,latin,5y7DaS3jAc9eZzcSOoUIwU
+136,Stephen Sanchez,"What Was, Not Now",Love Life,0.557,0.483,8,-6.46,1,0.0265,0,0.165,0.387,135.064,218533,4,gen z singer-songwriter,3E3SMSm6FMRA9gkpaFRFrC
+137,Calvin Harris,Funk Wav Bounces Vol.1,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",0.893,0.745,11,-3.105,0,0.0571,0,0.0943,0.872,101.018,223413,4,dance pop,5bcTCxgc7xVfSaMV3RuVke
+138,Rosa Linn,SNAP PACK,SNAP - Low and Slow,0.623,0.547,9,-9.345,1,0.0499,3.19e-05,0.15,0.514,149.973,203492,4,unknown,1XV9T4WLr3N4xacgl58hvT
+139,Joel Corry,BED,BED,0.671,0.782,6,-4.593,1,0.0341,0.00221,0.333,0.618,123.989,178088,4,dance pop,0siYMEsGrzzzlWLXK5zJfS
+140,Elton John,Honky Chateau,"Rocket Man (I Think It's Going To Be A Long, Long Time)",0.601,0.532,10,-9.119,1,0.0286,6.25e-06,0.0925,0.341,136.571,281613,4,glam rock,3gdewACMIVMEWVbyb8O9sY
+141,Marshmello,Silence,Silence,0.52,0.761,4,-3.093,1,0.0853,4.96e-06,0.17,0.286,141.971,180823,4,brostep,7vGuf3Y35N4wmASOKLUVVU
+142,Wiz Khalifa,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),0.689,0.481,10,-7.503,1,0.0815,1.03e-06,0.0649,0.283,80.025,229526,4,dance pop,2JzZzZUQj3Qff7wapcbKjc
+143,David Guetta,One Love (Deluxe),Memories (feat. Kid Cudi),0.561,0.87,8,-6.103,1,0.343,2.82e-06,0.246,0.498,129.98,210093,4,big room,4dTaAiV9xFFCxnPur9c9yL
+144,Tori Kelly,Sing 2 (Original Motion Picture Soundtrack),I Say A Little Prayer (with Pharrell Williams),0.673,0.703,11,-5.128,0,0.0405,0,0.0792,0.42,133.017,129426,4,unknown,0OXzyIutbMk24FfWmZqrzw
+145,Post Malone,Hollywood's Bleeding,Sunflower - Spider-Man: Into the Spider-Verse,0.755,0.522,2,-4.368,1,0.0575,0,0.0685,0.925,89.96,157560,4,dfw rap,0RiRZpuVRbi7oqRdSMwhQY
+146,Piso 21,Los Cachos,Los Cachos,0.774,0.73,0,-3.865,1,0.134,0,0.194,0.421,91.966,212304,4,colombian pop,5fhcuVxuBWfgNXGuyAtLmr
+147,Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Swalla (feat. Nicki Minaj & Ty Dolla $ign),0.696,0.817,1,-3.862,1,0.109,0,0.187,0.782,98.064,216409,4,dance pop,6kex4EBAj0WHXDKZMEJaaF
+148,Rei,FERNET,FERNET,0.71,0.738,6,-4.077,0,0.0861,0,0.0661,0.608,98.958,192668,4,trap argentino,2GVahxIzxivfRZc8lR39Ms
+149,Joji,YUKON (INTERLUDE),YUKON (INTERLUDE),0.736,0.71,6,-8.497,0,0.091,0.0351,0.395,0.0728,82.482,141093,4,viral pop,6c1yUgFlhUHLAM9hSDkVBq
+150,BTS,Proof,Butter,0.759,0.459,8,-5.187,1,0.0948,0,0.0788,0.695,109.997,164952,4,k-pop,6jjYDGxVJsWS0a5wlVF5vS
+151,Steve Lacy,Gemini Rights,Mercury,0.699,0.75,9,-6.481,0,0.0542,0.0137,0.333,0.887,151.035,295413,3,afrofuturism,6uVZddXkgQIArp8myEHs4x
+152,Latto,777,Sunshine (feat. Lil Wayne & Childish Gambino),0.798,0.672,10,-5.935,1,0.0677,0,0.117,0.864,127.994,206250,4,pop,3Lf16tRdqj4H7MBtCSztDS
+153,Lil Uzi Vert,Luv Is Rage 2,Neon Guts (feat. Pharrell Williams),0.859,0.563,1,-6.635,0,0.112,0,0.0685,0.412,119.934,258789,4,melodic rap,1MJErNPIQUoEMu4YUUmecm
+154,Pharrell Williams,Just A Cloud Away,Just A Cloud Away,0.89,0.46,2,-8.155,1,0.0359,0,0.11,0.677,112.555,176078,3,hip hop,0DGTcMqvVR7fmBXgiG6jz4
+155,Justin Bieber,Justice,Peaches (feat. Daniel Caesar & Giveon),0.677,0.696,0,-6.181,1,0.119,0,0.42,0.464,90.03,198082,4,canadian pop,4iJyoBOLtHqaGxP12qzhQI
+156,Tems,Black Panther: Wakanda Forever Prologue,No Woman No Cry,0.519,0.181,2,-11.845,1,0.0317,0.000327,0.0963,0.155,73.946,213860,4,afro r&b,6jo1FMdBzPKofW4iPIdQkR
+157,Steve Lacy,Gemini Rights,Static,0.335,0.305,1,-12.661,1,0.0741,0.631,0.101,0.215,79.001,156507,5,afrofuturism,4OmfWzukSVD140NiAIEjem
+158,Kygo,It Ain't Me,It Ain’t Me (with Selena Gomez),0.64,0.533,0,-6.596,1,0.0706,0,0.0864,0.515,99.968,220781,4,edm,12GEpg2XOPyqk03JZEZnJs
+159,The Kid LAROI,Thousand Miles,Thousand Miles,0.376,0.657,7,-4.658,1,0.0768,0,0.0884,0.203,80.565,164782,4,australian hip hop,1r8ZCjfrQxoy2wVaBUbpwg
+160,Maluma,The Love & Sex Tape,Nos Comemos Vivos,0.822,0.719,10,-3.633,0,0.0576,2.48e-05,0.174,0.659,82.01,225366,4,latin,0bI5WRiDfU5BY38ufOJtGu
+161,Lizzo,Cuz I Love You (Super Deluxe),Truth Hurts,0.715,0.624,4,-3.046,0,0.114,0,0.123,0.412,158.087,173325,4,dance pop,3HWzoMvoF3TQfYg4UPszDq
+162,benny blanco,Bad Decisions (with BTS & Snoop Dogg) [Instrumental],Bad Decisions (with BTS & Snoop Dogg) - Instrumental,0.815,0.671,0,-5.059,1,0.073,0.746,0.267,0.821,120.023,172714,4,electropop,4oyP9PdgeUYVISvz8Pf0EZ
+163,Dua Lipa,Future Nostalgia,Levitating (feat. DaBaby),0.702,0.825,6,-3.787,0,0.0601,0,0.0674,0.915,102.977,203064,4,dance pop,5nujrmhLynf4yMoMtj8AQF
+164,Bizarrap,"Eladio Carrion: Bzrp Music Sessions, Vol. 40","Eladio Carrion: Bzrp Music Sessions, Vol. 40",0.783,0.524,5,-6.455,0,0.0554,0,0.271,0.839,117.496,164896,4,argentine hip hop,1VauUM5CBX7nkLcgafQL2B
+165,Justin Timberlake,Man of the Woods,Say Something (feat. Chris Stapleton),0.707,0.632,10,-7.031,1,0.0789,1.09e-05,0.0841,0.372,97.04,278893,4,dance pop,1LhMopPAallLeaeNutqbgS
+166,OneRepublic,Dreaming Out Loud,Apologize,0.593,0.74,8,-6.12,1,0.0339,2.22e-05,0.102,0.502,118.008,208107,4,dance pop,1NrJYpdAi7uosDRPmSYrsG
+167,Tems,For Broken Ears,Free Mind,0.562,0.463,6,-7.478,1,0.0787,0.000145,0.157,0.416,125.15,247579,5,afro r&b,2mzM4Y0Rnx2BDZqRnhQ5Q6
+168,Steve Lacy,The Lo-Fis,Infrunami,0.826,0.299,9,-7.721,1,0.0446,0.0952,0.0758,0.215,97.012,178328,4,afrofuturism,0f8eRy9A0n6zXpKSHSCAEp
+169,benny blanco,FRIENDS KEEP SECRETS,Eastside (with Halsey & Khalid),0.632,0.686,6,-7.665,0,0.243,0,0.2,0.329,89.949,170770,4,electropop,7FGq80cy8juXBCD2nrqdWU
+170,Dove Cameron,Breakfast,Breakfast,0.64,0.553,2,-6.42,0,0.0411,0,0.0914,0.486,81.992,148471,4,pop,6GUiIbJ834FcHewby3PwV0
+171,Post Malone,Twelve Carat Toothache,One Right Now (with The Weeknd),0.682,0.764,1,-5.411,1,0.0477,0,0.103,0.701,97.023,192721,4,dfw rap,1nltpRhEiXikwDlVn4UADk
+172,Rosa Linn,SNAP PACK,SNAP - Fargo Remix,0.723,0.807,11,-6.343,1,0.205,0.00138,0.352,0.275,100.935,145080,4,unknown,1vsJZOJU5VtUL5VcQT4uUs
+173,Nicki Minaj,Pink Friday,Moment 4 Life,0.475,0.882,11,-3.883,1,0.351,0,0.241,0.369,98.001,279307,4,dance pop,1ia019RqDK2o4QiANR1Dyn
+174,KAROL G,KG0516,BICHOTA,0.864,0.658,1,-4.105,0,0.154,0.000626,0.105,0.865,163.922,178693,4,latin,1WvrDdouh6C51In1SdATbq
+175,Dove Cameron,Descendants (Original TV Movie Soundtrack),Rotten to the Core,0.693,0.808,4,-6.231,0,0.093,1.18e-06,0.578,0.547,127.945,162067,4,unknown,2bNxCVI4Fub8BAwr0CQDyd
+176,Bebe Rexha,Break My Heart Myself (feat. YEJI & RYUJIN of ITZY),Break My Heart Myself (feat. YEJI & RYUJIN of ITZY),0.771,0.842,1,-4.446,0,0.0659,0,0.121,0.572,104.958,162274,4,dance pop,5Av4jZOAbtY8STz7KPsNDB
+177,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,LA NOCHE DE ANOCHE,0.856,0.618,7,-4.892,1,0.286,0,0.0866,0.391,81.993,203201,4,latin,2XIc1pqjXV3Cr2BQUGNBck
+178,Central Cee,23,Straight Back to It,0.83,0.675,10,-5.186,1,0.22,0,0.114,0.528,140.89,196940,4,drill brasileiro,709MdyUol3Qfgcowmd7KV4
+179,Elton John,Goodbye Yellow Brick Road (Remastered),Goodbye Yellow Brick Road - Remastered 2014,0.559,0.473,5,-7.712,1,0.0279,0.00141,0.154,0.397,121.227,192827,4,glam rock,4IRHwIZHzlHT1FQpRa5RdE
+180,G-Eazy,The Beautiful & Damned,Him & I (with Halsey),0.589,0.731,2,-6.343,1,0.0868,0,0.308,0.191,87.908,268867,4,indie pop rap,5k38wzpLb15YgncyWdTZE4
+181,Kendrick Lamar,Black Panther The Album Music From And Inspired By,All The Stars (with SZA),0.698,0.633,8,-4.946,1,0.0597,0.000194,0.0926,0.552,96.924,232187,4,conscious hip hop,3GCdLUSnKSMJhs4Tj6CV3s
+182,Marshmello,Be Kind (with Halsey),Be Kind (with Halsey),0.63,0.633,4,-7.088,1,0.0457,0,0.0541,0.452,93.995,172762,4,brostep,3Z8FwOEN59mRMxDCtb8N0A
+183,benny blanco,FRIENDS KEEP SECRETS 2,Unlearn (with Gracie Abrams),0.505,0.217,10,-12.269,0,0.16,0,0.107,0.209,138.199,154808,1,electropop,0eT4sEeeudOolC4hivApL9
+184,Duki,Temporada de Reggaetón 2,Si Quieren Frontear,0.789,0.837,10,-3.247,1,0.23,0,0.209,0.476,81.536,200337,4,argentine hip hop,3MBNAfBXIq9fI2Sez8EcNX
+185,Rex Orange County,THREAT,THREAT,0.674,0.403,2,-13.814,1,0.211,0.00446,0.111,0.618,117.946,170794,4,bedroom pop,3mWUqIz228lrdC5ZSkpjUG
+186,Stephen Sanchez,Easy On My Eyes,Because Of You,0.401,0.163,4,-10.94,1,0.0319,0,0.119,0.303,130.273,231413,3,gen z singer-songwriter,6nmukSDAmw3XtbGKGD8056
+187,Beyoncé,RENAISSANCE,CUFF IT,0.78,0.689,7,-5.668,1,0.141,9.69e-06,0.0698,0.642,115.042,225389,4,dance pop,1xzi1Jcr7mEi9K2RfzLOqS
+188,Justin Bieber,Justice,Off My Face,0.509,0.228,4,-8.68,1,0.0332,0,0.104,0.586,90.674,156468,4,canadian pop,3T03rPwlL8NVk1yIaxeD8U
+189,Yung Gravy,Sensational,Whip A Tesla,0.814,0.527,9,-7.001,0,0.328,0.000512,0.0767,0.54,170.063,153733,4,minnesota hip hop,6nsyYPCDUSacgXci9mvWln
+190,Lil Nas X,7 EP,Rodeo,0.706,0.679,9,-5.614,1,0.0324,6.98e-05,0.465,0.657,140.081,158707,4,lgbtq+ hip hop,4ak7xjvBeBOcJGWFDX9w5n
+191,OneRepublic,Native,Counting Stars,0.664,0.705,1,-4.972,0,0.0382,0,0.115,0.477,122.017,257840,4,dance pop,6sy3LkhNFjJWlaeSMNwQ62
+192,BTS,Proof,Yet To Come,0.559,0.885,1,-4.515,1,0.189,0,0.333,0.683,172.029,193594,4,k-pop,10SRMwb9EuVS1K9rYsBfHQ
+193,benny blanco,FRIENDS KEEP SECRETS,Roses (with Juice WRLD feat. Brendon Urie),0.612,0.601,8,-7.089,1,0.164,0,0.117,0.525,147.018,223543,4,electropop,1KVczjazCcCCgM3gXXUl47
+194,Rosa Linn,Eurovision Song Contest Turin 2022 (Karaoke Version),Snap - Eurovision 2022 - Armenia / Karaoke Version,0.613,0.737,0,-10.208,1,0.0388,0.191,0.205,0.331,84.995,178944,4,unknown,2hWECvjxbBipWZxSfPoLmT
+195,Lizzo,Special,The Sign,0.705,0.93,0,-3.388,0,0.0932,0,0.156,0.759,78.971,165690,4,dance pop,7GSwmKxanoWEdpurOCldDe
+196,BTS,Proof,For Youth,0.633,0.511,2,-5.665,1,0.0368,0,0.248,0.29,116.855,264481,3,k-pop,4JzCFEc3O2UEdjKzevvFH5
+197,ROSALÍA,MOTOMAMI,SAOKO,0.827,0.768,0,-5.702,1,0.265,2.45e-05,0.497,0.734,99.988,137533,4,r&b en espanol,2FYGZDfsAnNsrm1gVbyKnG
+198,Jack Harlow,Thats What They All Say,"Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",0.904,0.723,11,-5.224,0,0.26,0,0.185,0.835,145.013,227478,4,deep underground hip hop,0ZLuW8uOXdFNWcI40C0OC2
+199,Rema,Rave & Roses,Time N Affection,0.549,0.689,9,-6.667,0,0.118,0,0.0785,0.268,108.643,230722,4,nigerian pop,0aMOalD335v1hsSXmLURzz
+200,Dua Lipa,Future Nostalgia,Levitating,0.695,0.884,6,-2.278,0,0.0753,0,0.213,0.914,103.014,203808,4,dance pop,39LLxExYz6ewLAcYrzQQyP
+201,FKA twigs,CAPRISONGS,jealousy (feat. rema),0.828,0.638,1,-5.346,0,0.0767,7.27e-05,0.133,0.525,113.486,159667,5,afrofuturism,66fCNfMdIKsXOnSphorrwg
+202,The Kid LAROI,F*CK LOVE 3: OVER YOU,NOT SOBER (feat. Polo G & Stunna Gambino),0.671,0.639,2,-6.852,0,0.134,0,0.0941,0.385,119.82,216000,5,australian hip hop,1JXBNvlDEl2epKSJ9EOgKX
+203,Glass Animals,How To Be A Human Being,Take A Slice,0.623,0.661,9,-7.0,1,0.1,0.000229,0.267,0.63,151.97,229718,4,gauze pop,37adYGaYaAWTGhBaOzX4Fh
+204,Harry Styles,Harry's House,As It Was,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4,pop,4Dvkj6JhhA12EX05fT7y2e
+205,Migos,Culture II,MotorSport,0.904,0.518,2,-5.32,1,0.183,0,0.325,0.188,137.996,303077,4,atl hip hop,4wFjTWCunQFKtukqrNijEt
+206,Imagine Dragons,Mercury - Acts 1 & 2,Bones,0.772,0.75,5,-3.67,0,0.0455,0,0.074,0.587,114.061,165265,4,modern rock,54ipXppHLA8U4yqpOFTUhr
+207,Camila Cabello,Romance,My Oh My (feat. DaBaby),0.724,0.491,8,-6.024,1,0.0296,1.29e-05,0.0887,0.383,105.046,170746,4,dance pop,3yOlyBJuViE2YSGn3nVE1K
+208,Beyoncé,RENAISSANCE,CHURCH GIRL,0.792,0.919,2,-5.688,1,0.276,5.1e-06,0.368,0.22,92.028,224473,4,dance pop,2mqTtvbKxH7SoEQ2oGAnsA
+209,Lil Nas X,MONTERO,SCOOP (feat. Doja Cat),0.841,0.527,6,-8.116,1,0.149,1.54e-06,0.12,0.582,163.975,174164,4,lgbtq+ hip hop,6bpq1jGkVz66Q3LYeoXdjZ
+210,Calvin Harris,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),0.791,0.862,9,-3.24,0,0.11,2.19e-05,0.0814,0.592,123.994,214847,4,dance pop,7ef4DlsgrMEH11cDZd32M6
+211,benny blanco,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)","I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",0.541,0.468,10,-4.039,0,0.362,3.65e-06,0.358,0.69,95.266,158027,4,electropop,1WSGTYKLEpKfNQYYW5Oymt
+212,Future,FUTURE,Mask Off,0.833,0.434,2,-8.795,1,0.431,0.0219,0.165,0.281,150.062,204600,4,atl hip hop,0VgkVdmE4gld66l8iyGjgx
+213,Charlie Puth,Voicenotes,Attention,0.775,0.613,3,-4.586,0,0.0542,2.33e-05,0.134,0.797,100.066,208787,4,dance pop,5cF0dROlMOK5uNZtivgu50
+214,Calum Scott,Heaven (feat. Lyodra),Heaven (feat. Lyodra),0.473,0.349,2,-6.852,1,0.0361,0,0.109,0.39,117.697,194141,4,neo mellow,1jbLad4D0ES63R6dRhhXm9
+215,Drake,Certified Lover Boy,Fountains (with Tems),0.843,0.485,10,-8.735,0,0.195,0.0675,0.107,0.689,100.053,192418,4,canadian hip hop,08XWh5c0BMyD1nKVxxl91z
+216,Shawn Mendes,Shawn Mendes (Deluxe),Señorita,0.759,0.548,9,-6.049,0,0.029,0,0.0828,0.749,116.967,190800,4,canadian pop,6v3KW9xbzN5yKLt9YKDYA2
+217,James Hype,Afraid,Afraid (feat. HARLEE),0.744,0.78,10,-3.631,0,0.0529,4.36e-06,0.184,0.762,125.997,142971,4,deep groove house,4FUFk1uJuPtUJrDQ8ZSylK
+218,Justin Timberlake,The 20/20 Experience (Deluxe Version),Mirrors,0.574,0.512,5,-6.664,0,0.0503,0,0.0946,0.512,76.899,484147,4,dance pop,4rHZZAmHpZrA3iH5zx8frV
+219,Yung Gravy,Gasanova,yup!,0.769,0.744,9,-4.934,1,0.0887,0.00112,0.0784,0.592,160.118,189000,4,minnesota hip hop,4OUY3FgUqy3UAqDQHnsaa6
+220,Gunna,DS4EVER,pushin P (feat. Young Thug),0.773,0.422,1,-4.572,0,0.187,0.00693,0.129,0.488,77.502,136267,1,atl hip hop,3XOalgusokruzA5ZBA2Qcb
+221,OneRepublic,Sunshine,Sunshine,0.697,0.875,5,-4.621,1,0.034,0,0.28,0.774,140.069,163855,4,dance pop,5r43qanLhUCdBj8HN3fa6B
+222,Beyoncé,RENAISSANCE,COZY,0.556,0.63,7,-8.15,1,0.102,0.00468,0.155,0.367,149.147,210372,5,dance pop,0mKGwFMHzTprtS2vpR3b6s
+223,Camila Cabello,Camila,Havana (feat. Young Thug),0.765,0.523,2,-4.333,1,0.03,3.56e-05,0.132,0.394,104.988,217307,4,dance pop,1rfofaqEpACxVEHIZBJe6W
+224,Lil Nas X,HOLIDAY,HOLIDAY,0.81,0.511,5,-6.924,0,0.164,0,0.0832,0.837,151.947,154998,4,lgbtq+ hip hop,6zFMeegAMYQo0mt8rXtrli
+225,Joel Corry,What Would You Do?,What Would You Do?,0.687,0.895,9,-2.983,1,0.0474,0.00592,0.121,0.686,124.041,174215,4,dance pop,1D2ZNECRd7KIlA4pyOUGsv
+226,Justin Bieber,My World 2.0,Baby,0.728,0.859,5,-5.237,0,0.137,0,0.111,0.535,65.043,214240,4,canadian pop,6epn3r7S14KUqlReYr77hA
+227,Harry Styles,Fine Line,Falling,0.567,0.267,4,-6.502,1,0.0299,1.46e-06,0.089,0.0592,110.011,240133,4,pop,1ZMiCix7XSAbfAJlEZWMCp
+228,Selena Gomez,Revival (Deluxe),Same Old Love,0.672,0.593,11,-4.01,0,0.0304,0,0.214,0.438,98.02,229080,4,dance pop,1BZG99C7Co1r6QUC3zaS59
+229,OneRepublic,Human (Deluxe),Someday,0.576,0.679,0,-7.237,1,0.034,0,0.323,0.213,121.005,187889,4,dance pop,6aDsgHPZsMztSbZernzlF8
+230,Quevedo,Chamaquita,Chamaquita,0.686,0.692,8,-6.099,0,0.349,0,0.111,0.83,179.975,170700,4,rap canario,667CH2wRxXnQOfPD1NrlLJ
+231,Nicky Youre,Sunroof (Loud Luxury Remix),Sunroof - Loud Luxury Remix,0.642,0.76,10,-4.221,1,0.0976,0,0.301,0.482,122.898,173659,4,unknown,1E8i4Xq9tH2LVWC0b1Sptj
+232,Britney Spears,Circus (Deluxe Version),Circus,0.791,0.733,6,-5.215,0,0.052,0.000381,0.0713,0.761,114.98,192360,4,dance pop,7jk7gqyEonmVVYahZN5zhW
+233,Kate Bush,Hounds of Love (2018 Remaster),Cloudbusting - 2018 Remaster,0.712,0.281,1,-15.497,0,0.0332,3.66e-05,0.0797,0.807,112.787,309973,4,art pop,0cuMpt0w9ahbhJl0R2fbkY
+234,NewJeans,NewJeans 1st EP 'New Jeans',Hype Boy,0.593,0.935,4,-3.43,0,0.225,0,0.286,0.783,99.976,179027,4,unknown,0a4MMyCrzT0En247IhqZbD
+235,Machine Gun Kelly,bloom,Bad Things (with Camila Cabello),0.697,0.691,2,-4.757,1,0.146,0,0.185,0.305,137.853,239293,4,ohio hip hop,1PSBzsahR2AKwLJgx8ehBj
+236,Lizzo,Cuz I Love You,Juice,0.767,0.889,7,-2.988,1,0.0963,0,0.402,0.843,119.93,195145,4,dance pop,0k664IuFwVP557Gnx7RhIl
+237,Charlie Puth,Nine Track Mind,We Don't Talk Anymore (feat. Selena Gomez),0.728,0.563,1,-8.053,0,0.134,0,0.179,0.352,100.017,217707,4,dance pop,37FXw5QGFN7uwwsLy8uAc0
+238,Charlie Puth,Left and Right (feat. Jung Kook of BTS) [Sam Feldt Remix],Left and Right (feat. Jung Kook of BTS) - Sam Feldt Remix,0.773,0.836,2,-5.366,1,0.0724,0.000448,0.0914,0.614,122.006,162541,4,dance pop,17IVw95dOZSIiq7dz4UWaD
+239,Bizarrap,"Villano Antillano: Bzrp Music Sessions, Vol. 51","Villano Antillano: Bzrp Music Sessions, Vol. 51",0.82,0.752,1,-7.635,0,0.0648,0.00417,0.628,0.423,127.999,187500,4,argentine hip hop,4hceSKjrkDTO0nMKFcb3sj
+240,Stephen Sanchez,Easy On My Eyes,Until I Found You,0.346,0.5,10,-6.097,1,0.0388,0,0.189,0.191,202.466,176667,3,gen z singer-songwriter,6VhuP99TE6gYNQRJIlAWFD
+241,Stephen Sanchez,"What Was, Not Now",I Want You,0.499,0.313,5,-9.689,1,0.0288,0,0.103,0.233,125.991,210453,4,gen z singer-songwriter,1q32AhBbgDPdBr5VyCRHq6
+242,Lost Frequencies,Crazy,Crazy,0.765,0.762,11,-5.069,0,0.123,8.58e-05,0.104,0.444,114.975,153391,4,belgian edm,64fwanXDvwmsQrLsDSVHMv
+243,DJ Khaled,KHALED KHALED,POPSTAR (feat. Drake),0.803,0.565,5,-4.711,0,0.235,0,0.141,0.474,163.085,200221,4,hip hop,1sbEeUY8KsdvgiQi26JBFz
+244,Kate Bush,The Kick Inside,The Man with the Child in His Eyes,0.249,0.261,0,-10.592,1,0.0334,0.00154,0.136,0.195,90.007,158693,4,art pop,4xjVfArXNQRxAvsUpjmfMt
+245,Juice WRLD,Legends Never Die,Hate The Other Side (with Marshmello & The Kid Laroi),0.701,0.65,6,-6.313,1,0.104,0,0.112,0.647,90.003,160212,4,chicago rap,0ada5XsQGLPUVbmTCkAP49
+246,Robinson,Ayo Girl (Fayahh Beat) [feat. Rema],Ayo Girl (Fayahh Beat) [feat. Rema],0.647,0.766,6,-4.803,1,0.0389,0,0.096,0.55,95.016,165216,4,unknown,57Hk0AE5OhgXrPWZOhipHt
+247,Kate Bush,Hounds of Love (2018 Remaster),The Big Sky - 2018 Remaster,0.531,0.859,0,-12.973,0,0.0512,0.402,0.176,0.489,122.797,275867,4,art pop,5JIahiVpnzRZWTR9jpjmr0
+248,Drake,More Life,Passionfruit,0.809,0.463,11,-11.377,1,0.0396,0.085,0.109,0.364,111.98,298941,4,canadian hip hop,5mCPDVBb16L4XQwDdbRUpz
+249,Galactikäi,Interåstral,Interåstral,0.682,0.664,7,-7.82,0,0.284,0.708,0.174,0.247,159.964,189000,4,unknown,0QWvHKJkNe4O4SfUUFrW0j
+250,Nicki Minaj,Queen Radio: Volume 1,Super Freaky Girl,0.951,0.878,2,-2.565,1,0.211,1.61e-05,0.321,0.923,133.014,170977,4,dance pop,2yjlYDiNiQkdxVqTlaSrlX
+251,Cardi B,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),0.935,0.454,1,-7.509,1,0.375,0,0.0824,0.357,133.073,187541,4,dance pop,4Oun2ylbjFKMPTiaSbbCih
+252,Anuel AA,Emmanuel,China,0.786,0.808,7,-3.702,1,0.0881,0.000289,0.0822,0.608,105.029,301714,4,latin,0KkIkfsLEJbrcIhYsCL7L5
+253,Calvin Harris,Funk Wav Bounces Vol. 2,Potion (with Dua Lipa & Young Thug),0.824,0.697,11,-4.869,0,0.0473,4.11e-05,0.0751,0.757,99.987,215216,4,dance pop,3h8tI65xdfpQyTAy7Grqwa
+254,Kane Brown,Be Like That (feat. Swae Lee & Khalid),Be Like That - feat. Swae Lee & Khalid,0.727,0.626,7,-8.415,1,0.0726,2.58e-05,0.126,0.322,86.97,191406,4,black americana,5f1joOtoMeyppIcJGZQvqJ
+255,Lil Nas X,MONTERO,INDUSTRY BABY (feat. Jack Harlow),0.741,0.691,10,-7.395,0,0.0672,0,0.0476,0.892,150.087,212353,4,lgbtq+ hip hop,5Z9KJZvQzH6PFmb8SNkxuk
+256,Future,I NEVER LIKED YOU,I'M ON ONE (feat. Drake),0.773,0.707,11,-5.71,1,0.0568,1.04e-05,0.296,0.113,76.977,236187,4,atl hip hop,6wyhUr4Xw8z5uSy0AhoZfU
+257,Calvin Harris,Funk Wav Bounces Vol. 2,Obsessed (with Charlie Puth & Shenseea),0.733,0.74,1,-6.343,0,0.0333,3.3e-05,0.299,0.903,99.993,226497,4,dance pop,0b5CzUhyShYuDdtW5J4wm2
+258,Marshmello,Leave Before You Love Me,Leave Before You Love Me (with Jonas Brothers),0.721,0.738,7,-4.77,1,0.0403,4.41e-06,0.118,0.637,119.976,154983,4,brostep,4qu63nuBpdn0qHUHuObEj1
+259,Bizarrap,"Nathy Peluso: Bzrp Music Sessions, Vol. 36","Nathy Peluso: Bzrp Music Sessions, Vol. 36",0.65,0.655,1,-3.71,0,0.405,0,0.0691,0.735,94.059,171215,4,argentine hip hop,78SeXVRJ7KCqVmOwTiFjnI
+260,Nicki Minaj,Pink Friday ... Roman Reloaded,Starships,0.747,0.716,11,-2.457,0,0.075,0,0.251,0.751,125.008,210627,4,dance pop,1oHNvJVbFkexQc0BpQp7Y4
+261,Joji,Nectar,Sanctuary,0.552,0.638,1,-7.474,1,0.11,0.00014,0.374,0.332,167.834,180019,4,viral pop,5F1ZmucV0uJY14y2dYKePa
+262,Migos,"My Family (feat. Migos) [from ""The Addams Family""]","My Family - from ""The Addams Family""",0.782,0.775,5,-4.49,0,0.0975,0,0.322,0.882,135.966,177353,4,latin,62rchuhJrm5JSlIfHz7cH3
+263,Doja Cat,Hot Pink,Streets,0.749,0.463,11,-8.433,1,0.0842,0.0382,0.338,0.189,90.035,226987,4,dance pop,60ynsPSSKe6O3sfwRnIBRf
+264,benny blanco,FRIENDS KEEP SECRETS 2,You (with Marshmello & Vance Joy),0.667,0.572,11,-6.416,1,0.041,2.01e-06,0.109,0.272,103.077,169094,4,electropop,3wCk9LASPqyp2VovekThtF
+265,Halsey,hopeless fountain kingdom (Deluxe),Walls Could Talk,0.626,0.423,1,-6.035,1,0.0513,0,0.18,0.571,95.162,101790,4,dance pop,5ln5yQdUywVbf8HhFsOcd6
+266,Dalex,Yo Te Quiero Pa Mi,Hola - Remix,0.655,0.673,0,-5.98,0,0.308,0,0.0753,0.342,181.891,249520,4,latin,17I27VXKtqXJHL6ReaG0eS
+267,Bizarrap,"Morad: Bzrp Music Sessions, Vol. 47","Morad: Bzrp Music Sessions, Vol. 47",0.77,0.859,0,-4.526,0,0.0429,0.00339,0.103,0.548,122.042,177583,4,argentine hip hop,39yyHtQ4tkjZzd8TfIBKQw
+268,Post Malone,Twelve Carat Toothache,Cooped Up (with Roddy Ricch),0.669,0.773,0,-5.619,1,0.153,0,0.113,0.377,93.923,185857,4,dfw rap,32vE1nuG8T9c8bhmZdRY6d
+269,Lost Frequencies,Less Is More,Are You With Me - Radio Edit,0.763,0.61,5,-8.094,0,0.0355,2.71e-05,0.12,0.392,121.031,138013,4,belgian edm,62nhuooamoroYpJyqE0nLd
+270,Central Cee,23,Mrs,0.832,0.492,11,-11.018,0,0.136,2.57e-06,0.296,0.751,141.987,148832,4,drill brasileiro,0yRsHuqDYOeug4ACp38Rjt
+271,Snoop Dogg,Paid Tha Cost To Be Da Bo$$,Beautiful,0.907,0.695,11,-6.268,0,0.135,0,0.0808,0.961,101.007,298307,4,g funk,7FrJV8tydWEv1Mxu2mIQrm
+272,Glass Animals,Dreamland (+ Bonus Levels),Heat Waves (with iann dior),0.655,0.716,8,-5.077,0,0.0897,0,0.479,0.521,80.813,175302,4,gauze pop,7vZqwaSk4sVcDyZbMcxS8N
+273,Calvin Harris,Funk Wav Bounces Vol. 2,Live My Best Life (with Snoop Dogg & Latto),0.755,0.629,7,-5.665,0,0.0654,4.93e-06,0.117,0.908,144.003,163481,4,dance pop,7gqlF5gGTO4aSZV2HPkYwm
+274,Bad Bunny,Un Verano Sin Ti,Party,0.829,0.799,9,-5.389,1,0.0897,0.000543,0.242,0.471,97.013,227629,4,latin,4tYFy8ALRjIZvnvSLw5lxN
+275,Pharrell Williams,Cash In Cash Out,Cash In Cash Out,0.877,0.56,7,-3.751,1,0.0596,1.45e-06,0.0839,0.154,119.971,216136,4,hip hop,3S68RFe1lsdCdTMPIMJM3X
+276,Central Cee,Wild West,Loading,0.85,0.68,3,-6.18,0,0.338,0,0.0964,0.694,144.006,173333,1,drill brasileiro,4vzJrkfHbCGaodPA5RY5BV
+277,SZA,Hit Different,Hit Different,0.679,0.516,0,-6.371,0,0.0452,0,0.0965,0.716,120.074,202008,4,pop,7Bar1kLTmsRmH6FCKKMEyU
+278,Rex Orange County,Loving Is Easy (feat. Benny Sings),Loving Is Easy (feat. Benny Sings),0.756,0.609,3,-7.927,1,0.0544,0.00482,0.0959,0.537,117.024,155720,4,bedroom pop,5EYi2rH4LYs6M21ZLOyQTx
+279,Kate Bush,The Kick Inside,Wuthering Heights,0.481,0.392,1,-11.381,1,0.0312,0.0452,0.124,0.52,124.572,269067,4,art pop,5YSI1311X8t31PBjkBG4CZ
+280,DJ Khaled,KHALED KHALED,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),0.477,0.727,2,-4.053,1,0.286,0,0.108,0.227,150.062,236524,4,hip hop,1EJIcDYXwSqipW5dFe4uJz
+281,Kate Bush,Hounds of Love (2018 Remaster),Hounds Of Love - 2018 Remaster,0.543,0.795,5,-12.769,1,0.0394,3.5e-06,0.2,0.928,145.523,182867,4,art pop,7Gmds7ZyvhKdoU0Ho4GIxK
+282,Elton John,Sleeping With The Past (Remastered with bonus tracks),Sacrifice,0.756,0.422,11,-12.967,0,0.0292,0.00183,0.0368,0.487,112.751,304133,4,glam rock,0e3yhVeNaTfKIWQRw9U9sY
+283,Steve Lacy,Gemini Rights,Bad Habit,0.686,0.494,1,-7.093,1,0.0355,5.8e-05,0.402,0.7,168.946,232067,4,afrofuturism,4k6Uh1HXdhtusDW5y8Gbvy
+284,Halsey,Manic,Without Me,0.752,0.488,6,-7.05,1,0.0705,9.11e-06,0.0936,0.533,136.041,201661,4,dance pop,6FZDfxM3a3UCqtzo5pxSLZ
+285,Jack Harlow,Come Home The Kids Miss You,Dua Lipa,0.833,0.652,11,-6.942,1,0.0762,0.0985,0.106,0.405,158.022,135053,4,deep underground hip hop,0LnS7aOdOdI1dNKZqdOLz4
+286,Justin Bieber,Justice,Lonely (with benny blanco),0.619,0.241,11,-7.102,0,0.046,0,0.116,0.0719,79.461,149190,4,canadian pop,3S8jK1mGzQi24ilFb45DAZ
+287,Future,High Off Life,Life Is Good (feat. Drake),0.795,0.574,2,-6.903,0,0.487,0,0.15,0.537,142.053,237918,4,atl hip hop,1K5KBOgreBi5fkEHvg5ap3
+288,Glass Animals,How To Be A Human Being,Youth,0.648,0.718,9,-7.765,0,0.0298,0.00156,0.112,0.785,96.017,230693,4,gauze pop,1LPGwuFgIzbJoShfDdw7MY
+289,Khalid,American Teen,8TEEN,0.83,0.585,1,-5.802,1,0.0366,0.00209,0.0576,0.642,105.03,228600,4,pop,5bgwqaRSS3M8WHWruHgSL5
+290,Dua Lipa,Future Nostalgia,Don't Start Now,0.793,0.793,11,-4.521,0,0.083,0,0.0951,0.679,123.95,183290,4,dance pop,3PfIrDoz19wz7qK7tYeu62
+291,ROSALÍA,Con Altura,Con Altura,0.882,0.689,6,-4.027,1,0.124,0.00325,0.0501,0.746,97.963,161627,4,r&b en espanol,2qG5sZ7Si6sdK74qLxedYM
+292,Kate Bush,Never for Ever (2018 Remaster),Babooshka - 2018 Remaster,0.49,0.362,5,-12.047,0,0.0382,1.14e-05,0.0671,0.292,108.866,199227,4,art pop,6VpNGCU2ig4NQmsLfALdJU
+293,Steve Lacy,Some,Some,0.784,0.554,7,-6.417,1,0.03,0.254,0.0995,0.634,104.01,118393,4,afrofuturism,4riDfclV7kPDT9D58FpmHd
+294,"Tyler, The Creator",CALL ME IF YOU GET LOST,JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams),0.827,0.571,11,-7.949,1,0.366,0,0.166,0.62,142.034,146419,4,hip hop,7z4xW9WY86uH3gd1V9pfCM
+295,Burna Boy,"Love, Damini",It's Plenty,0.776,0.565,7,-10.609,1,0.105,8.81e-05,0.308,0.53,107.035,216992,4,afro dancehall,5hVjoL3sHepZROri63wBxP
+296,BLACKPINK,THE ALBUM,Pretty Savage,0.701,0.556,9,-7.42,0,0.0414,0.000122,0.106,0.333,152.045,201122,4,k-pop,1XnpzbOGptRwfJhZgLbmSr
+297,Selena Gomez,Rare,Lose You To Love Me,0.488,0.343,4,-8.985,1,0.0436,0,0.21,0.0978,102.819,206459,4,dance pop,4l0Mvzj72xxOpRrp6h8nHi
+298,David Guetta,Crazy What Love Can Do,Crazy What Love Can Do,0.601,0.713,4,-3.758,0,0.0449,0,0.158,0.464,122.872,169756,4,big room,1WCEAGGRD066z2Q89ObXTq
+299,Camila Cabello,Camila,Never Be the Same,0.637,0.713,0,-4.333,1,0.0747,0.000637,0.137,0.243,129.923,226973,4,dance pop,4eWQlBRaTjPPUlzacqEeoQ
+300,Sofia Carson,Descendants 3 (Original TV Movie Soundtrack),One Kiss,0.678,0.793,7,-4.479,1,0.0318,0.205,0.0649,0.913,140.013,149120,4,unknown,0v2gYvWbmabBYaTlOWi5fi
+301,Dave,PSYCHODRAMA,Location (feat. Burna Boy),0.812,0.496,9,-5.969,0,0.297,0,0.0955,0.55,109.979,241293,4,uk hip hop,3z4CGd63tpUn9a6oQSG0CI
+302,Fred again..,Turn On The Lights again.. (feat. Future),Turn On The Lights again.. (feat. Future),0.683,0.887,6,-4.944,0,0.0497,0.446,0.318,0.551,132.007,267947,4,unknown,6gdDu39yYqPcaTgCwYEW8i
+303,David Guetta,Nothing but the Beat 2.0,Titanium (feat. Sia),0.604,0.788,0,-3.673,0,0.103,0.153,0.127,0.301,126.06,245040,4,big room,0lHAMNU8RGiIObScrsRgmP
+304,Nicki Minaj,Queen,Chun-Li,0.686,0.73,6,-5.077,0,0.374,4.76e-05,0.106,0.474,128.943,191600,5,dance pop,1e4rwBPVI32vZtTJu7mJ4J
+305,Bad Bunny,Un Verano Sin Ti,Moscow Mule,0.804,0.674,5,-5.453,0,0.0333,1.18e-06,0.115,0.292,99.968,245940,4,latin,6Xom58OOXk2SoU711L2IXO
+306,Central Cee,23,"Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",0.741,0.735,10,-6.511,0,0.299,0,0.185,0.737,144.024,243776,4,drill brasileiro,4f5TKGvkD4TkTjr61GKNAG
+307,BLACKPINK,SQUARE UP,DDU-DU DDU-DU,0.668,0.828,4,-5.034,0,0.0739,0,0.0932,0.393,140.042,211350,4,k-pop,4lQsB3ERTWSNaAN1IkuNRl
+308,DJ Snake,"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)","SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",0.8,0.837,6,-2.807,0,0.0491,0.00313,0.0904,0.702,100.015,225600,4,dance pop,6IPNp9PfaEqrzotY47TIWy
+309,The Kid LAROI,WITHOUT YOU (with Miley Cyrus),WITHOUT YOU (with Miley Cyrus),0.655,0.469,0,-6.257,1,0.0292,0,0.0956,0.467,92.56,161385,4,australian hip hop,1EHUQesfVKwbthtNcpBi9g
+310,Charlie Puth,Voicenotes,How Long,0.845,0.561,1,-5.253,0,0.0778,3.49e-06,0.0383,0.811,109.974,200853,4,dance pop,6wmAHw1szh5RCKSRjiXhPe
+311,SZA,I Hate U,I Hate U,0.535,0.388,7,-9.805,0,0.155,0,0.11,0.412,106.703,174000,5,pop,5dXWFMwD7I7zXsInONVl0H
+312,Anitta,Versions of Me,Gata (feat. Chencho Corleone),0.518,0.799,8,-4.316,1,0.123,0.000189,0.787,0.882,92.02,206277,4,funk carioca,3SWjpNMVUi5UXz096NbfPr
+313,Kate Bush,The Sensual World (2018 Remaster),This Woman's Work - 2018 Remaster,0.353,0.148,8,-16.238,1,0.0392,0.000335,0.067,0.184,128.74,216307,4,art pop,04GlCBjIl0HPR3TWQpraJ3
+314,ROSALÍA,MOTOMAMI,LA FAMA,0.766,0.295,0,-7.893,0,0.0464,4.44e-05,0.119,0.805,136.016,188107,4,r&b en espanol,6Y46tOTRhkBamosyuWa6YX
+315,Zedd,Happy Now,Happy Now,0.503,0.741,4,-5.128,1,0.047,1.49e-06,0.0712,0.458,88.335,207030,3,complextro,4keoy2fqgwGnbWlm3ZVZFa
+316,Dua Lipa,Dua Lipa (Complete Edition),Kiss and Make Up,0.678,0.729,8,-4.188,1,0.137,0,0.303,0.643,99.895,189173,4,dance pop,7jr3iPu4O4bTCVwLMbdU2i
+317,The Chainsmokers,World War Joy,Call You Mine,0.585,0.696,4,-5.6,0,0.0307,0,0.344,0.522,104.01,217640,4,dance pop,2oejEp50ZzPuQTQ6v54Evp
+318,Harry Styles,Harry's House,Little Freak,0.559,0.535,3,-7.723,1,0.039,0.000143,0.0954,0.402,141.96,202183,4,pop,3i058E8uxTsYqJ5NWZzqSj
+319,Ed Sheeran,=,Bad Habits,0.807,0.893,11,-3.745,0,0.0347,2.79e-05,0.366,0.537,126.011,230747,4,pop,3rmo8F54jFF8OgYsqTxm5d
+320,Dove Cameron,Descendants 3 (Original TV Movie Soundtrack),Night Falls,0.72,0.87,3,-5.155,0,0.142,0,0.144,0.802,160.039,188218,4,unknown,3doNvO8zrwzcM0PJrcn8Rb
+321,Bad Bunny,Un Verano Sin Ti,Tití Me Preguntó,0.65,0.715,5,-5.198,0,0.253,0.000291,0.126,0.187,106.672,243717,4,latin,1IHWl5LamUGEuP4ozKQSXZ
+322,Stephen Sanchez,Easy On My Eyes,Hey Girl,0.389,0.505,6,-7.777,0,0.037,0.00403,0.216,0.244,121.775,185907,4,gen z singer-songwriter,4rypm0OAHbU1IXLA8atiGE
+323,MEDUZA,Bad Memories (feat. Elley Duhé & FAST BOY),Bad Memories (feat. Elley Duhé & FAST BOY),0.607,0.767,5,-6.069,0,0.0474,0,0.122,0.662,123.998,148629,3,edm,3rb0tMq42WfggucPm0HHkA
+324,Elley Duhé,Kids Of The Night,Kids Of The Night,0.684,0.729,1,-3.8,1,0.0407,0.000628,0.124,0.49,159.975,185787,4,alt z,5u8Zijx6NHUL8MM6dBEbkS
+325,Camila Cabello,Familia,Don't Go Yet,0.666,0.796,10,-6.967,0,0.103,0,0.0442,0.61,110.108,164842,4,dance pop,1qCHidBbWAgv3pn6UbZ4Lg
+326,Manuel Turizo,Te Olvido,Te Olvido,0.704,0.698,0,-4.679,0,0.306,0,0.109,0.61,177.867,211436,4,colombian pop,1ycIhjQ4fQp2WqNFpSDEcX
+327,The Kid LAROI,F*CK LOVE,GO (feat. Juice WRLD),0.487,0.74,6,-4.973,1,0.0944,0,0.612,0.522,73.779,181688,4,australian hip hop,2rPHUAeUPbNgTmK18FPTiZ
+328,Tems,For Broken Ears,Higher,0.609,0.581,2,-10.854,1,0.277,0,0.283,0.528,102.964,196204,3,afro r&b,2QdSb68BzZGMgCbsrFmSLc
+329,Dove Cameron,Descendants 2 (Original TV Movie Soundtrack),You and Me,0.526,0.834,6,-6.259,0,0.115,0,0.0636,0.429,169.762,212352,4,unknown,5AiD2doxfh5xlfkNc63WPV
+330,Rema,Rema,Dumebi,0.923,0.657,3,-5.173,0,0.0605,0.00407,0.108,0.734,110.015,179775,4,nigerian pop,0SjQBdIddPvKSWxr8vk6QX
+331,Quevedo,Universitaria,Universitaria,0.658,0.679,10,-8.341,0,0.137,0,0.426,0.723,90.011,133022,4,rap canario,3durq4YUSFRaeoodpfHBmJ
+332,Elton John,Too Low For Zero,I'm Still Standing,0.504,0.904,6,-6.863,1,0.179,0.121,0.14,0.772,176.808,183440,4,glam rock,1jDJFeK9x3OZboIAHsY9k2
+333,Shouse,Love Tonight (David Guetta Remix),Love Tonight - David Guetta Remix Edit,0.621,0.989,10,-4.225,0,0.0434,0.357,0.184,0.0348,126.002,158095,4,aussietronica,2prnn41CblB8B4yWACDljP
+334,Black Eyed Peas,DON'T YOU WORRY,DON'T YOU WORRY,0.816,0.875,11,-4.821,1,0.0311,0,0.209,0.491,131.958,196364,4,dance pop,0gYXw7aPoybWFfB7btQ0eM
+335,Bad Bunny,Un Verano Sin Ti,Ojitos Lindos,0.647,0.686,3,-5.745,0,0.0413,1.34e-06,0.528,0.268,79.928,258299,4,latin,3k3NWokhRRkEPhCzPmV8TW
+336,Jack Harlow,Thats What They All Say,Tyler Herro,0.792,0.793,5,-6.185,0,0.0841,0,0.22,0.775,123.031,156578,4,deep underground hip hop,3w1WjD2zJqjBjDz5fwqQPJ
+337,Doja Cat,Planet Her,You Right,0.828,0.621,8,-6.414,1,0.0565,0.00233,0.0845,0.436,128.986,186173,4,dance pop,0k4d5YPDr1r7FX77VdqWez
+338,Bebe Rexha,Expectations,Meant to Be (feat. Florida Georgia Line),0.642,0.772,10,-6.61,1,0.0848,0,0.0646,0.589,153.995,164205,4,dance pop,4e4fqjx0Izh4svvTef1z7e
+339,Lil Nas X,7 EP,Old Town Road,0.907,0.53,1,-6.112,1,0.127,2.23e-06,0.101,0.507,135.998,113000,4,lgbtq+ hip hop,0F7FA14euOIX8KcbEturGH
+340,Glass Animals,How To Be A Human Being,The Other Side Of Paradise,0.689,0.338,11,-7.634,0,0.0629,5.7e-05,0.0649,0.568,128.012,320654,4,gauze pop,0rRjGruFonCGOt0S5zAJNQ
+341,Steve Lacy,C U Girl,C U Girl,0.414,0.473,11,-8.911,0,0.116,0.0523,0.128,0.409,100.0,129698,4,afrofuturism,6FBzhcfgGacfXF3AmtfEaX
+342,Justin Timberlake,FutureSex/LoveSounds,What Goes Around.../...Comes Around (Interlude),0.687,0.723,7,-4.751,1,0.0709,0.00102,0.573,0.432,76.0,448573,4,dance pop,3pD0f7hSJg2XdQ6udw5Tey
+343,Marshmello,OK Not To Be OK,OK Not To Be OK,0.743,0.837,1,-5.025,0,0.0649,0,0.0743,0.263,103.072,159863,4,brostep,0zzVTGyRrWpQu8Fr28NRAv
+344,James Hype,Disconnected,Disconnected,0.842,0.811,2,-6.476,1,0.109,0.176,0.0702,0.594,125.995,194524,4,deep groove house,3MK2rvp7XjarzRKFrPGMOb
+345,Latto,777,Wheelie (feat. 21 Savage),0.908,0.665,1,-6.231,1,0.279,0,0.0938,0.779,148.034,170270,4,pop,5lrAnzvRBQSgAkpo0WkMjB
+346,DJ Khaled,GOD DID,BILLS PAID (feat. Latto & City Girls),0.74,0.687,1,-7.193,1,0.218,0,0.352,0.63,105.034,208932,4,hip hop,0JiLQRLOeWQdPC9rVpOqqo
+347,Steve Lacy,Gemini Rights,Helmet,0.612,0.675,9,-6.518,0,0.0231,0,0.217,0.763,97.04,201547,4,afrofuturism,0DmkBOGgEWMbUJlL6VwwF2
+348,Rauw Alejandro,El Efecto (Remix),El Efecto - Remix,0.771,0.769,0,-3.504,0,0.0694,1.57e-05,0.345,0.931,167.969,289899,4,puerto rican pop,74j34STf8L6uADnTN69ohv
+349,DJ Khaled,GOD DID,"GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",0.42,0.725,8,-4.262,1,0.223,0,0.18,0.186,77.941,501648,1,hip hop,2sOj9vyd6yiss9W1IK6chU
+350,Calum Scott,Rise (Sam Feldt Remix),Rise (Sam Feldt Remix),0.695,0.74,10,-6.97,1,0.0371,0,0.143,0.455,122.051,162541,4,neo mellow,2PI3dfxZWkaEpBoCJq56RK
+351,G-Eazy,When It's Dark Out,"Me, Myself & I",0.756,0.674,0,-6.518,0,0.0959,0,0.158,0.389,111.995,251467,4,indie pop rap,40YcuQysJ0KlGQTeGUosTC
+352,Selena Gomez,Revelación - EP,Baila Conmigo (with Rauw Alejandro),0.823,0.544,5,-7.132,1,0.0715,0.00315,0.0966,0.664,149.903,186088,4,dance pop,079Ey5uxL04AKPQgVQwx5h
+353,Marshmello,FRIENDS,FRIENDS,0.626,0.88,9,-2.384,0,0.0504,0,0.128,0.534,95.079,202621,4,brostep,08bNPGLD8AhKpnnERrAc6G
+354,Charlie Puth,Left and Right (feat. Jung Kook of BTS) [Instrumental],Left and Right (feat. Jung Kook of BTS) - Instrumental,0.899,0.464,2,-8.003,1,0.0667,0.9,0.0753,0.654,101.014,152117,4,dance pop,3QRJgF8HY4zEuboEy4Q1gd
+355,Ed Sheeran,No.6 Collaborations Project,I Don't Care (with Justin Bieber),0.798,0.676,6,-5.041,1,0.0442,0,0.0894,0.843,101.956,219947,4,pop,0hVXuCcriWRGvwMV1r5Yn9
+356,Quevedo,Piel de Cordero,Piel de Cordero,0.827,0.541,11,-10.743,0,0.225,4.42e-05,0.0948,0.256,128.028,213647,4,rap canario,04d4GpLedinwpfctvgOIhY
+357,Becky Hill,Only Honest On The Weekend,Remember (and David Guetta),0.626,0.864,8,-3.12,1,0.0378,0,0.087,0.555,123.833,161387,4,dance pop,6feiJqgHqeSvkGUzf11AYs
+358,Lizzo,Special,Grrrls,0.889,0.449,0,-7.63,1,0.293,0,0.0581,0.911,137.941,121113,4,dance pop,1iV2uSjP8BfHTXVLblBOxI
+359,Elley Duhé,PIECES,PIECES,0.491,0.704,3,-6.978,0,0.0464,0.000529,0.105,0.515,147.116,166680,4,alt z,07IMjyn9gW77cR7APem5g6
+360,KAROL G,KG0516,200 COPAS,0.515,0.704,9,-5.25,0,0.206,0,0.415,0.885,91.246,217213,3,latin,0aZnyTWJNgdzYoOiaW8HKG
+361,Jack Harlow,Come Home The Kids Miss You,Churchill Downs (feat. Drake),0.71,0.522,11,-9.102,1,0.36,0,0.11,0.37,96.448,309327,4,deep underground hip hop,3EMp20j5E42MxfFbsEsIvD
+362,Felix Jaehn,Rain In Ibiza,Rain In Ibiza,0.654,0.898,7,-5.964,1,0.0413,0.0347,0.316,0.722,123.996,141932,4,dance pop,5u8Y0lAUlBLwuhpXSDUGf4
+363,Khalid,Suncity,Better,0.596,0.552,0,-10.278,0,0.097,0.334,0.104,0.112,97.949,229320,4,pop,6zeeWid2sgw4lap2jV61PZ
+364,Nicki Minaj,Queen Radio: Volume 1,Do We Have A Problem? (with Lil Baby),0.842,0.509,1,-8.644,0,0.426,0.000285,0.118,0.521,120.001,207065,4,dance pop,70Gw6yQcnYCBKXTFONiDtc
+365,Yung Gravy,Sensational,Gravy Train,0.733,0.622,6,-7.689,0,0.14,0,0.165,0.729,143.934,169600,4,minnesota hip hop,3qOkkP9JLltoUvaLjEXTmW
+366,Manuel Turizo,Dopamina,Quiéreme Mientras Se Pueda,0.793,0.782,4,-3.945,1,0.0582,0,0.124,0.81,143.86,191945,4,colombian pop,1WH3iquIQXnSPwUzlROT8R
+367,Glass Animals,ZABA,Gooey,0.487,0.369,11,-13.424,0,0.0406,3.75e-05,0.0925,0.106,183.114,289307,4,gauze pop,1gk3FhAV07q9Jg77UxnVjX
+368,Kygo,Golden Hour,Lose Somebody,0.58,0.586,1,-6.883,1,0.0357,0,0.0755,0.507,147.988,199549,4,edm,1sgDyuLooyvEML4oHspNza
+369,Ed Sheeran,÷ (Deluxe),Shape of You,0.825,0.652,1,-3.183,0,0.0802,0,0.0931,0.931,95.977,233713,4,pop,7qiZfU4dY1lWllzX7mPBI3
+370,Galantis,Heartbreak Anthem (with David Guetta & Little Mix),Heartbreak Anthem (with David Guetta & Little Mix),0.595,0.784,1,-4.878,1,0.102,0,0.0608,0.479,124.111,183726,4,dance pop,5K6Ssv4Z3zRvxt0P6EKUAP
+371,Charlie Puth,Cheating on You,Cheating on You,0.749,0.535,4,-6.785,1,0.0336,3.65e-05,0.0982,0.601,123.042,196607,4,dance pop,0ClPIeT6MSgfSgQ9ZrJbAq
+372,SZA,Ctrl,Normal Girl,0.624,0.532,0,-7.146,1,0.124,5.17e-05,0.158,0.362,76.453,253587,4,pop,5fQBa4wkmq28xpSLOQ202K
+373,The Kid LAROI,F*CK LOVE (SAVAGE),WITHOUT YOU,0.662,0.413,0,-7.357,1,0.0299,0,0.134,0.467,93.005,161385,4,australian hip hop,27OeeYzk6klgBh83TSvGMA
+374,Ed Sheeran,x (Wembley Edition),Thinking out Loud,0.781,0.445,2,-6.061,1,0.0295,0,0.184,0.591,78.998,281560,4,pop,1Slwb6dOYkBlWal1PGtnNg
+375,Kate Bush,The Kick Inside,Oh to Be in Love,0.663,0.348,6,-13.911,1,0.0285,0.000406,0.163,0.468,93.961,198093,4,art pop,628RVPULYzx6bvh8uf0Msn
+376,Calum Scott,Only Human (Special Edition),You Are The Reason - Duet Version,0.403,0.356,10,-7.547,1,0.0298,0,0.148,0.151,171.454,190760,3,neo mellow,1x3W8RZxW94lrVGhP95qA6
+377,Steve Lacy,Gemini Rights,Give You the World,0.574,0.369,0,-9.251,0,0.0262,0.234,0.0976,0.41,73.013,273787,4,afrofuturism,0J119Oas2ox6JTTHUGZxHN
+378,Rihanna,Talk That Talk,We Found Love,0.734,0.766,1,-4.485,1,0.0383,0.00138,0.108,0.6,127.986,215227,4,barbadian pop,6qn9YLKt13AGvpq9jfO8py
+379,Halsey,So Good,So Good,0.576,0.627,3,-4.649,0,0.0449,0,0.181,0.311,164.998,176059,4,dance pop,6kxaaIeowajN7w21PfMLbu
+380,Rauw Alejandro,VICE VERSA,Desesperados,0.869,0.694,1,-3.35,0,0.0783,0.00125,0.0878,0.511,90.02,224997,4,puerto rican pop,6mmPpaltUZK7xjNlBPQQ0p
+381,BLACKPINK,As If It's Your Last,As If It's Your Last,0.786,0.852,8,-2.687,1,0.0813,0,0.0759,0.455,125.036,213264,4,k-pop,4ZxOuNHhpyOj4gv52MtQpT
+382,Rex Orange County,Bcos U Will Never B Free,Corduroy Dreams,0.608,0.305,4,-14.037,1,0.053,0,0.103,0.222,113.818,206975,4,bedroom pop,02tvc9CFnTyHuSRlGeNv9w
+383,Kate Bush,Selection from 'The Other Sides' (2018 Remaster),"12"" Running Up That Hill (A Deal With God) - 2018 Remaster",0.718,0.397,10,-16.856,0,0.062,0.443,0.0622,0.329,108.334,349000,4,art pop,3vXXUi4bPLz5e5fCPmuKNL
+384,Dove Cameron,Descendants (Original TV Movie Soundtrack),If Only,0.477,0.6,7,-5.652,1,0.0324,0,0.112,0.29,152.062,229813,3,unknown,1mRBJdpIgc3jZH8C3cN2WV
+385,ROSALÍA,"Yo x Ti, Tu x Mi","Yo x Ti, Tu x Mi",0.78,0.759,1,-3.292,1,0.225,0.000868,0.143,0.579,91.952,201040,4,r&b en espanol,7BlBVFwvbWvcwNcUarQmjk
+386,Lost Frequencies,Less Is More,Reality,0.731,0.639,9,-6.597,1,0.0359,1.29e-05,0.0789,0.527,122.08,158474,4,belgian edm,6rHROoXjEfuxYVw1nd7plQ
+387,Becky G,ESQUEMAS,MAMIII,0.836,0.703,4,-3.554,0,0.0657,0,0.138,0.902,94.048,226093,4,latin,7FlQk2gJ6TBrHHiidvdR2O
+388,Khalid,American Teen,Location,0.736,0.449,1,-11.462,0,0.425,0.000162,0.0898,0.326,80.126,219080,4,pop,152lZdxL1OR0ZMW6KquMif
+389,Jack Harlow,Thats What They All Say,Already Best Friends (feat. Chris Brown),0.873,0.575,10,-7.284,0,0.0702,0,0.108,0.872,103.005,197031,4,deep underground hip hop,4RKJRRd4VJfZWiqQTYsleE
+390,Calum Scott,Only Human (Deluxe),Dancing On My Own - Tiësto Remix,0.637,0.602,1,-5.546,1,0.0346,0.000179,0.0818,0.291,122.019,222890,4,neo mellow,2EHVjRFRSsXQaHAsys74Us
+391,Post Malone,Hollywood's Bleeding,Circles,0.695,0.762,0,-3.497,1,0.0395,0.00244,0.0863,0.553,120.042,215280,4,dfw rap,21jGcNKet2qwijlDFuPiPb
+392,Rosa Linn,SNAP PACK,SNAP - Acoustic,0.49,0.378,0,-4.644,1,0.0379,0,0.101,0.114,74.21,208066,4,unknown,1Kg4T22aL4CyoJO1nbAEPe
+393,Dua Lipa,Dua Lipa (Deluxe),IDGAF,0.836,0.544,7,-5.975,1,0.0943,0,0.0824,0.51,97.028,217947,4,dance pop,76cy1WJvNGJTj78UqeA5zr
+394,Central Cee,Wild West,6 For 6,0.855,0.792,2,-4.949,1,0.143,0,0.17,0.623,142.965,148750,4,drill brasileiro,1tLV0GD0WXQ1Z8BKOQscti
+395,Doja Cat,Planet Her,Get Into It (Yuh),0.912,0.655,8,-6.029,0,0.162,3.39e-05,0.0894,0.793,91.942,138293,4,dance pop,0W6I02J9xcqK8MtSeosEXb
+396,Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]","Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",0.653,0.718,3,-5.232,0,0.213,0,0.0537,0.216,82.034,202805,4,ohio hip hop,0OI7AFifLSoGzpb8bdBLLV
+397,Jack Harlow,Sweet Action,WHATS POPPIN,0.923,0.604,11,-6.671,0,0.245,0,0.272,0.826,145.062,139741,4,deep underground hip hop,1jaTQ3nqY3oAAYyCTbIvnM
+398,Selena Gomez,Wolves,Wolves,0.724,0.804,11,-4.614,0,0.0448,0,0.204,0.306,124.987,197993,4,dance pop,0tBbt8CrmxbjRP0pueQkyU
+399,Lil Nas X,7 EP,Old Town Road - Remix,0.878,0.619,6,-5.56,1,0.102,0,0.113,0.639,136.041,157067,4,lgbtq+ hip hop,2YpeDb67231RjR0MgVLzsG
+400,Burna Boy,African Giant,Gbona,0.798,0.813,4,-5.869,0,0.162,0.000142,0.108,0.942,93.912,187609,4,afro dancehall,7rpWDu9GPlLxbLorYKVys7
+401,Dove Cameron,Descendants 2 (Original TV Movie Soundtrack),Space Between,0.426,0.763,4,-4.369,1,0.049,6.43e-06,0.264,0.195,155.92,206379,4,unknown,3N1V03yrqyNPo5A4Fu2Wd7
+402,WizKid,Made In Lagos: Deluxe Edition,Essence (feat. Justin Bieber & Tems),0.836,0.69,0,-5.816,1,0.123,1.22e-05,0.112,0.586,104.004,263293,4,afro dancehall,1MZtr7IH5qtjIkqrXj8WOJ
+403,Glass Animals,Dreamland (+ Bonus Levels),Tangerine,0.845,0.583,9,-5.948,0,0.0773,0.000536,0.1,0.842,149.941,200584,4,gauze pop,5VGEgFZfWBoEOGb3Vlo3rU
+404,Megan Thee Stallion,Traumazine,Budget (feat. Latto),0.922,0.858,1,-4.185,1,0.251,0,0.124,0.915,145.033,201979,4,dance pop,3BFxkzhkESwALQxjxOVFgJ
+405,Drake,Certified Lover Boy,Fair Trade (with Travis Scott),0.666,0.465,1,-8.545,1,0.26,0,0.215,0.292,167.937,291175,4,canadian hip hop,40iJIUlhi6renaREYGeIDS
+406,BLACKPINK,SQUARE TWO,PLAYING WITH FIRE,0.706,0.756,4,-4.405,0,0.0845,0,0.18,0.676,97.098,197289,4,k-pop,7qmvLmX9tyaTiBAVNI6YEn
+407,BLACKPINK,KILL THIS LOVE,Kill This Love,0.763,0.835,2,-5.234,0,0.191,0.00221,0.225,0.645,131.875,191050,4,k-pop,6hvczQ05jc1yGlp9zhb95V
+408,Stephen Sanchez,Easy On My Eyes,Please Don't Go Home Yet,0.602,0.131,0,-10.587,1,0.0324,0,0.0817,0.269,98.412,214040,4,gen z singer-songwriter,3p8Kv8GcO4obTLPmsS459h
+409,Lizzo,Special,Special,0.517,0.707,7,-5.474,1,0.0693,0,0.453,0.264,82.859,174398,4,dance pop,3m7IYU7ySuFMwdm7OCShQN
+410,James Hype,No Drama (feat. Craig David),No Drama (feat. Craig David),0.73,0.934,4,-3.995,1,0.078,2.56e-05,0.142,0.758,122.018,153310,4,deep groove house,6IIOcnq93QAaKeRX1cs16v
+411,Justin Timberlake,TROLLS (Original Motion Picture Soundtrack),"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",0.669,0.832,0,-5.721,1,0.0682,0,0.0968,0.7,113.035,237547,4,deep classic garage rock,1WkMMavIMc4JZ8cfMmxHkI
+412,Stephen Sanchez,"What Was, Not Now",The Pool,0.438,0.527,3,-7.414,1,0.0263,0.000419,0.131,0.403,93.992,291827,4,gen z singer-songwriter,66h3xcrTooMC9AxV8g0Y75
+413,Britney Spears,Blackout,Gimme More,0.788,0.844,2,-3.131,1,0.0334,0.000678,0.0723,0.382,113.324,251240,4,dance pop,6ic8OlLUNEATToEFU3xmaH
+414,Bizarrap,"L-Gante: Bzrp Music Sessions, Vol. 38","L-Gante: Bzrp Music Sessions, Vol.38",0.553,0.819,2,-3.083,1,0.257,1.36e-05,0.0915,0.761,87.913,192348,4,argentine hip hop,1Crj1zkRMpsEjb9NOR6Zof
+415,Doja Cat,Hot Pink,Say So,0.787,0.673,11,-4.583,0,0.159,3.35e-06,0.0904,0.779,110.962,237893,4,dance pop,3Dv1eDb0MEgF93GpLXlucZ
+416,Eminem,Curtain Call 2,From The D 2 The LBC (with Snoop Dogg),0.718,0.768,7,-7.87,1,0.25,0,0.0957,0.591,164.038,213745,4,detroit hip hop,6CPAznSrkDmiPBgLXoi00f
+417,Stephen Sanchez,Lady by the Sea,Lady by the Sea,0.439,0.503,8,-10.029,1,0.0281,5.6e-05,0.152,0.519,186.01,182984,3,gen z singer-songwriter,4wPKUEm0EOoyUiFtI6mz1a
+418,Bad Bunny,Un Verano Sin Ti,Efecto,0.801,0.475,7,-8.797,0,0.0516,1.73e-05,0.0639,0.234,98.047,213061,4,latin,5Eax0qFko2dh7Rl2lYs3bx
+419,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),Left and Right (Feat. Jung Kook of BTS) - Acapella,0.571,0.169,9,-8.628,1,0.0554,0,0.0975,0.742,202.365,154487,4,dance pop,0lWsA6TPYDRWenhCJrbfYu
+420,Central Cee,23,Obsessed With You,0.746,0.825,3,-4.457,1,0.0435,0,0.365,0.904,143.062,108651,4,drill brasileiro,4oxGI8yyghLuMV7ybRG3kg
+421,Selena Gomez,Stars Dance (Bonus Track Version),Come & Get It,0.546,0.787,7,-4.1,0,0.0517,0.00021,0.0809,0.573,79.979,231987,4,dance pop,6LoQHIo74tOzQ8EsLEkhgF
+422,Bizarrap,"Snow Tha Product: Bzrp Music Sessions, Vol. 39","Snow Tha Product: Bzrp Music Sessions, Vol. 39",0.83,0.748,1,-5.362,1,0.162,0,0.0992,0.523,133.028,177443,4,argentine hip hop,3ke6it1vTmHtz2ApcIVUz5
+423,BTS,Permission to Dance,Permission to Dance,0.702,0.741,9,-5.33,1,0.0427,0,0.337,0.646,124.925,187585,4,k-pop,3XYRV7ZSHqIRDG87DKTtry
+424,WizKid,Made In Lagos,Essence (feat. Tems),0.849,0.707,0,-6.002,1,0.113,8.58e-06,0.618,0.602,104.027,248040,4,afro dancehall,5FG7Tl93LdH117jEKYl3Cm
+425,Burna Boy,Outside,Ye,0.503,0.592,5,-5.923,0,0.444,0.00014,0.169,0.344,201.85,231618,4,afro dancehall,3FskQrDXcY24ur2fCvz35O
+426,BTS,Proof,Run BTS,0.724,0.818,8,-3.747,1,0.168,0,0.0358,0.696,77.004,204940,4,k-pop,69xohKu8C1fsflYAiSNbwM
+427,KAROL G,KG0516,Tusa,0.799,0.701,2,-3.272,1,0.282,7.36e-05,0.0514,0.607,100.946,201920,4,latin,0dKg2vGC1hFqcK5LGTaKzX
+428,Drake,Certified Lover Boy,Way 2 Sexy (with Future & Young Thug),0.803,0.597,11,-6.035,0,0.141,4.5e-06,0.323,0.331,136.008,257605,4,canadian hip hop,0k1WUmIRnG3xU6fvvDVfRG
+429,Shawn Mendes,Handwritten,I Know What You Did Last Summer,0.687,0.761,9,-4.582,0,0.0876,0,0.147,0.743,113.939,223853,4,canadian pop,2GyA33q5rti5IxkMQemRDH
+430,Quevedo,Sin Señal,Sin Señal,0.822,0.851,11,-3.314,0,0.0422,0.00792,0.105,0.749,117.992,185085,4,rap canario,1Y62KpDaP5MEL43ZcI6IaG
+431,Joji,Daylight,Daylight,0.528,0.749,7,-7.571,1,0.0479,9.6e-05,0.0949,0.729,163.944,163906,4,viral pop,6Ed1q0X8oSKSm4IIhiQbYg
+432,Rosa Linn,SNAP PACK,SNAP - High and Fast,0.715,0.682,4,-7.556,1,0.0448,0.00955,0.34,0.867,112.248,135903,3,unknown,3TWHd23YOrfxx3yDYCE1WC
+433,Imagine Dragons,Origins (Deluxe),Natural,0.704,0.611,2,-6.112,1,0.0409,0,0.0812,0.22,100.0,189467,4,modern rock,2FY7b99s15jUprqC0M5NCT
+434,Nicky Youre,Sunroof (Remixes),Sunroof - Acoustic,0.787,0.477,10,-5.404,1,0.0317,0,0.0712,0.895,130.98,135573,4,unknown,5SQumm5nD389bpF8MsYRkg
+435,Justin Bieber,Purpose (Deluxe),Sorry,0.654,0.76,0,-3.669,0,0.045,0,0.299,0.41,99.945,200787,4,canadian pop,09CtPGIpYB4BrO8qb1RGsF
+436,KEVVO,"105 F Remix (feat. Arcangel, Ñengo Flow, Darell, Myke Towers & Brytiago)","105 F Remix (feat. Arcangel, Ñengo Flow, Darell, Myke Towers & Brytiago)",0.903,0.737,5,-7.442,0,0.161,1.48e-06,0.284,0.766,100.021,464214,4,perreo,73R3WkIr8D4jfvJ1Ti5hty
+437,BTS,BE,Dynamite,0.746,0.765,6,-4.41,0,0.0993,0,0.0936,0.737,114.044,199054,4,k-pop,5QDLhrAOJJdNAmCTJ8xMyW
+438,Rosa Linn,KING,KING,0.598,0.555,0,-7.407,1,0.0295,0.0277,0.304,0.353,152.101,203089,4,unknown,4RgXmdsT0zfYXdrZPW3pV8
+439,Diego Torres,Color Esperanza 2020,Color Esperanza 2020,0.591,0.785,9,-7.768,1,0.161,0,0.126,0.785,106.002,217547,4,unknown,3eSJmGWqoBRx5wbFCtvPtz
+440,Bad Bunny,Un Verano Sin Ti,La Corriente,0.663,0.786,11,-3.51,0,0.195,0,0.219,0.579,196.12,198367,4,latin,1797zYiX4cKosMH836X9Gt
+441,David Guetta,Crazy What Love Can (with Becky Hill & Ella Henderson) [David Guetta & James Hype Remix],Crazy What Love Can (with Becky Hill & Ella Henderson) - David Guetta & James Hype Remix,0.697,0.914,9,-5.394,1,0.0411,0.416,0.166,0.384,126.004,160564,4,big room,3WxudMmNMRRect1cLF5KuO
+442,Rex Orange County,Apricot Princess,Happiness,0.399,0.235,5,-9.774,1,0.0334,1.56e-06,0.161,0.197,105.645,279693,3,bedroom pop,2rXVtoLBHuXcNB5DVfIc9p
+443,Joji,In Tongues (Deluxe),worldstar money (interlude),0.577,0.387,7,-8.607,1,0.274,0.705,0.208,0.459,146.565,126312,1,viral pop,0baNzeUcPQnQSagpe8T0mD
+444,Calvin Harris,Motion,Outside (feat. Ellie Goulding),0.646,0.823,2,-4.123,0,0.0394,0,0.322,0.418,128.035,227267,4,dance pop,7MmG8p0F9N3C4AXdK6o6Eb
+445,Justin Timberlake,Justified,Rock Your Body,0.892,0.714,4,-6.055,0,0.141,0.000234,0.0521,0.817,100.972,267267,4,dance pop,1AWQoqb9bSvzTjaLralEkT
+446,The Chainsmokers,Closer,Closer,0.748,0.524,8,-5.599,1,0.0338,0,0.111,0.661,95.01,244960,4,dance pop,7BKLCZ1jbUBVqRi2FVlTVw
+447,Charlie Puth,Nine Track Mind,One Call Away,0.667,0.613,1,-5.353,1,0.0344,0,0.115,0.47,91.024,194453,4,dance pop,7soJgKhQTO8hLP2JPRkL5O
+448,Megan Thee Stallion,Traumazine,Sweetest Pie,0.814,0.626,7,-7.187,1,0.214,0,0.101,0.686,123.972,201334,4,dance pop,3JXF3LsUjyDIHjuwhXxdjo
+449,Imagine Dragons,Origins (Deluxe),Bad Liar,0.383,0.637,3,-6.993,1,0.0703,0,0.368,0.0827,177.913,260773,4,modern rock,2RSHsoi04658QL5xgQVov3
+450,Nicky Youre,Sunroof (feat. Manuel Turizo),Sunroof (feat. Manuel Turizo),0.707,0.798,10,-4.513,1,0.0385,0,0.12,0.917,131.452,163026,4,unknown,1Rj5fXGOrfFpynoO19Xtar
+451,Harry Styles,Harry's House,Satellite,0.576,0.457,0,-6.473,1,0.0304,3.05e-05,0.0917,0.301,138.984,218577,4,pop,0rzaRSujxA0bKyjJl6vHYq
+452,Yung Gravy,Baby Gravy 2,Welcome to Chilis,0.839,0.454,10,-9.09,0,0.157,0,0.0755,0.804,159.987,157500,4,minnesota hip hop,3PdcxgzpWzAsUGgkmykIFc
+453,Snoop Dogg,R&G (Rhythm & Gangsta): The Masterpiece,Drop It Like It's Hot,0.888,0.632,1,-3.872,1,0.219,0,0.101,0.662,91.979,266067,4,g funk,2NBQmPrOEEjA8VbeWOQGxO
+454,Ariana Grande,Stuck with U,Stuck with U (with Justin Bieber),0.597,0.45,8,-6.658,1,0.0418,0,0.382,0.537,178.765,228482,3,dance pop,4HBZA5flZLE435QTztThqH
+455,Latto,777,It's Givin,0.865,0.614,8,-6.782,1,0.278,0,0.434,0.642,160.032,153000,4,pop,5h9dlUlCGZahkuaC3MShz3
+456,Marshmello,Happier,Happier,0.687,0.792,5,-2.749,1,0.0452,0,0.167,0.671,100.015,214290,4,brostep,2dpaYNEQHiRxtZbfNsse99
+457,Snoop Dogg,Mac and Devin Go to High School (Music from and Inspired by the Movie),"Young, Wild & Free (feat. Bruno Mars)",0.553,0.652,0,-6.685,1,0.206,0,0.111,0.551,94.505,207347,4,g funk,6YbhspuOar1D9WSSnfe7ds
+458,Manuel Turizo,Dopamina,La Nota,0.736,0.632,11,-4.939,0,0.0648,0,0.349,0.503,92.03,216107,4,colombian pop,5VzNsUnLmYcRfRfxpQsusa
+459,Rema,Rave & Roses,Calm Down,0.814,0.789,11,-6.29,1,0.0405,0.000502,0.137,0.842,107.003,219669,4,nigerian pop,3BnDvpeuGOj21Ir2aVEtQo
+460,Britney Spears,In The Zone,Toxic,0.774,0.838,5,-3.914,0,0.114,0.025,0.242,0.924,143.04,198800,4,dance pop,6I9VzXrHxO9rA9A5euc8Ak
+461,Fivio Foreign,B.I.B.L.E.,Paris to Tokyo,0.642,0.787,5,-6.389,0,0.17,0,0.288,0.406,146.733,130897,4,brooklyn drill,39d9CQbAB6AMLCxcJtSc0U
+462,Ed Sheeran,x (Wembley Edition),Photograph,0.614,0.379,4,-10.48,1,0.0476,0.000464,0.0986,0.201,107.989,258987,4,pop,6fxVffaTuwjgEk5h9QyRjy
+463,Harry Styles,Harry's House,Matilda,0.507,0.294,2,-10.0,1,0.04,1.97e-05,0.0966,0.386,114.199,245964,4,pop,6uvh0In7u1Xn4HgxOfAn8O
+464,Dove Cameron,Descendants 2 (Original TV Movie Soundtrack),Ways to Be Wicked,0.625,0.98,5,-4.222,0,0.132,8.07e-06,0.409,0.408,113.027,218005,4,unknown,2ziVTVizQdVNC2QhQhNGvg
+465,SZA,Ctrl,The Weekend,0.4,0.366,8,-9.405,0,0.0597,0,0.126,0.161,73.313,272187,3,pop,6gU9OKjOE7ghfEd55oRO57
+466,Calum Scott,Bridges,Heaven,0.566,0.353,2,-7.624,1,0.033,0,0.11,0.394,127.531,194141,4,neo mellow,0Y1RDty5uEqseA1C4kqa4x
+467,Elton John,The Lockdown Sessions,Cold Heart - PNAU Remix,0.795,0.8,1,-6.32,1,0.0309,7.25e-05,0.0915,0.934,116.032,202735,4,glam rock,7rglLriMNBPAyuJOMGwi39
+468,Manuel Turizo,ADN,Una Lady Como Tú,0.788,0.477,4,-7.348,1,0.0434,0,0.349,0.86,94.983,213027,4,colombian pop,5jf0PmPCHefQ78uAzqIqbj
+469,Mau y Ricky,Para Aventuras y Curiosidades,Desconocidos,0.719,0.753,7,-4.891,1,0.179,4.21e-06,0.212,0.675,174.107,204564,4,latin,56f5qnyAlZdlz8wrUDA50h
+470,KAROL G,KG0516,EL MAKINON,0.635,0.706,5,-3.224,0,0.125,0,0.108,0.443,88.863,209160,4,latin,2FSGUA0gFgGeQdprjtGM2M
+471,ROSALÍA,MOTOMAMI,CANDY,0.638,0.49,4,-5.726,0,0.226,0.0116,0.156,0.403,179.905,193480,4,r&b en espanol,70AYiGbc4mWZGEqiipBBDb
+472,Ed Sheeran,÷ (Deluxe),Perfect,0.599,0.448,8,-6.312,1,0.0232,0,0.106,0.168,95.05,263400,3,pop,0tgVpDi06FyKpA1z0VMD4v
+473,Steve Lacy,Dark Red,Dark Red,0.603,0.783,6,-4.023,1,0.062,7.96e-06,0.119,0.775,172.041,173104,4,afrofuturism,37y7iDayfwm3WXn5BiAoRk
+474,Beyoncé,RENAISSANCE,HEATED,0.785,0.732,1,-5.724,1,0.164,0.000807,0.265,0.496,110.952,260771,4,dance pop,1w7cgGZR86yWz1pA2puVJD
+475,Yung Gravy,Sensational,The Boys Are Back In Town,0.853,0.701,8,-5.908,1,0.34,0,0.142,0.643,155.069,147907,4,minnesota hip hop,4Mqfhqtb5WmondLWYsCCrz
+476,Britney Spears,Femme Fatale (Deluxe Version),Criminal,0.696,0.734,7,-5.294,1,0.0298,0,0.183,0.711,107.987,225080,4,dance pop,6T689Jvh5KrSXyaPtUWZtQ
+477,Post Malone,beerbongs & bentleys,Better Now,0.68,0.578,10,-5.804,1,0.04,0,0.135,0.341,145.038,231267,4,dfw rap,7dt6x5M1jzdTEt8oCbisTK
+478,Miley Cyrus,Plastic Hearts,Prisoner (feat. Dua Lipa),0.781,0.67,3,-3.912,0,0.0452,0,0.0761,0.595,127.99,169333,4,dance pop,2Oycxb8QbPkpHTo8ZrmG0B
+479,Rex Orange County,Sunflower,Sunflower,0.384,0.765,6,-4.463,1,0.0579,0.00352,0.522,0.567,129.903,252231,4,bedroom pop,4EpZ4eYuZOwPSSwyqpdHnJ
+480,Beyoncé,RENAISSANCE,I'M THAT GIRL,0.554,0.535,5,-8.959,0,0.186,1.32e-05,0.124,0.136,105.865,208014,4,dance pop,1MpCaOeUWhox2Fgigbe1cL
+481,BLACKPINK,THE ALBUM,How You Like That,0.812,0.761,11,-5.222,1,0.0812,0.000135,0.0601,0.344,130.032,182956,4,k-pop,4SFknyjLcyTLJFPKD2m96o
+482,Saucy Santana,Booty (feat. Latto),Booty (feat. Latto),0.876,0.563,9,-6.035,0,0.171,0,0.365,0.711,108.045,146667,4,trap queen,3Ca24oa8tofPtGYuULHXHI
+483,Future,I NEVER LIKED YOU,PUFFIN ON ZOOTIEZ,0.883,0.657,8,-5.748,1,0.305,0,0.128,0.284,124.992,172933,4,atl hip hop,1qMMYpVatbRITKCfq1gasi
+484,Drake,Views,One Dance,0.792,0.625,1,-5.609,1,0.0536,0.0018,0.329,0.37,103.967,173987,4,canadian hip hop,1zi7xx7UVEFkmKfv06H8x0
+485,Nicki Minaj,Pink Friday (Complete Edition),Super Bass,0.723,0.86,11,-4.357,1,0.203,4.56e-06,0.598,0.667,126.979,200013,4,dance pop,3hlksXnvbKogFdPbpO9vel
+486,Gryffin,Tie Me Down (with Elley Duhé) [Steve Aoki Remix],Tie Me Down (with Elley Duhé) - Steve Aoki Remix,0.715,0.788,6,-4.271,1,0.066,0,0.195,0.372,110.041,189818,4,dance pop,27dtcjTLGUeR9mw1cwF6mn
+487,Beyoncé,RENAISSANCE,SUMMER RENAISSANCE,0.674,0.625,1,-9.593,1,0.0514,0.0015,0.11,0.208,120.004,273998,4,dance pop,3HyR1j49TY5ACP2lseF1jx
+488,Bad Bunny,Un Verano Sin Ti,Tarot,0.795,0.684,11,-3.971,0,0.0419,0,0.658,0.419,114.011,237895,4,latin,41oY4WCTj5kccfesTVFnvN
+489,Joji,BALLADS 1,YEAH RIGHT,0.672,0.588,1,-9.573,1,0.133,0.241,0.0992,0.204,169.033,174358,4,viral pop,1VGzxJnVQND7Cg5H5wGj14
+490,Tems,Found (feat. Brent Faiyaz),Found (feat. Brent Faiyaz),0.821,0.412,7,-7.795,1,0.0341,1.64e-05,0.0985,0.333,109.977,209454,4,afro r&b,0GGfGINoVYiSFXPOjg3RHj
+491,Chris Jedi,La Llevo Al Cielo (Ft. Ñengo Flow),La Llevo Al Cielo (Ft. Ñengo Flow),0.795,0.845,9,-3.809,0,0.135,1.14e-05,0.172,0.769,170.023,254920,4,latin,6DoL1yYIwEW7VZMRaJhoJI
+492,Lizzo,Special,2 Be Loved (Am I Ready),0.721,0.769,7,-4.111,1,0.105,0,0.0817,0.915,155.932,187108,4,dance pop,13Irp51zj01BZu2XtDrnAg
+493,NEIKED,I Just Called,I Just Called,0.626,0.849,7,-3.662,1,0.123,0,0.593,0.898,138.997,150560,4,dance pop,0H8Tclo4x4kbZruQtZFNSX
+494,The Kid LAROI,F*CK LOVE 3: OVER YOU,STAY (with Justin Bieber),0.591,0.764,1,-5.484,1,0.0483,0,0.103,0.478,169.928,141806,4,australian hip hop,5PjdY0CKGZdEuoNab3yDmX
+495,Megan Thee Stallion,Traumazine,Pressurelicious (feat. Future),0.845,0.723,11,-5.18,1,0.263,0,0.107,0.667,146.972,173061,4,dance pop,16knHihZqSUCl07ablNPPl
+496,Britney Spears,Circus (Deluxe Version),Womanizer,0.724,0.695,11,-5.226,1,0.0622,0,0.0889,0.235,139.0,224400,4,dance pop,4fixebDZAVToLbUCuEloa2
+497,Imagine Dragons,Mercury - Acts 1 & 2,Enemy (with JID) - from the series Arcane League of Legends,0.728,0.783,11,-4.424,0,0.266,0,0.434,0.555,77.011,173381,4,modern rock,3CIyK1V4JEJkg02E4EJnDl
+498,Latto,Big Energy (feat. DJ Khaled) [Remix],Big Energy (feat. DJ Khaled) - Remix,0.867,0.771,11,-3.688,0,0.0939,0,0.133,0.715,106.021,181666,4,pop,4nmD4awtUUCC4AGETpUiuP
+499,Harry Styles,Fine Line,Watermelon Sugar,0.548,0.816,0,-4.209,1,0.0465,0,0.335,0.557,95.39,174000,4,pop,6UelLqGlWMcVH1E5c4H7lY
+500,Elley Duhé,LOVE ME HARD,LOVE ME HARD,0.554,0.862,3,-4.672,1,0.0361,0.000142,0.422,0.557,139.937,218630,4,alt z,2zKGBzm03BqPDszKUX2wqT
+501,Beyoncé,RENAISSANCE,BREAK MY SOUL,0.693,0.887,1,-5.039,0,0.0795,2.71e-06,0.27,0.864,114.942,278282,4,dance pop,5pyoxDZ1PX0KxBxiRVxA4U
+502,Miggy Dela Rosa,Bare Flesh,Bare Flesh,0.303,0.0972,2,-15.765,0,0.0402,0.0143,0.115,0.069,126.273,221414,3,unknown,4bIB74To4jtqILAaL89SJI
+503,Drake,Scorpion,God's Plan,0.754,0.449,7,-9.211,1,0.109,8.29e-05,0.552,0.357,77.169,198973,4,canadian hip hop,6DCZcSspjsKoFjzjrWoCdn
+504,Post Malone,Hollywood's Bleeding,Wow.,0.829,0.539,11,-7.359,0,0.208,1.78e-06,0.103,0.388,99.96,149547,4,dfw rap,7xQAfvXzm3AkraOtGPWIZg
+505,Stephen Sanchez,Until I Found You (Piano Version),Until I Found You - Piano Version,0.603,0.148,7,-10.449,1,0.0279,0,0.101,0.228,95.451,184895,3,gen z singer-songwriter,06vNG6CiV4k8oNA0wUUAO7
+506,Nicky Youre,Sunroof (feat. Thomas Rhett),Sunroof (feat. Thomas Rhett),0.726,0.796,10,-4.295,1,0.0381,0,0.151,0.752,131.449,163026,4,unknown,6h8gsCn4oaTmJM7MoglvQR
+507,Stephen Sanchez,Easy On My Eyes,See The Light,0.728,0.796,4,-5.33,1,0.0461,9.28e-06,0.196,0.691,117.925,180147,4,gen z singer-songwriter,5nsFJfYtAFZmL9PbtYKYcA
+508,Burna Boy,"Love, Damini",Wild Dreams (feat. Khalid),0.515,0.612,7,-6.314,1,0.06,0,0.59,0.401,126.106,186189,5,afro dancehall,2cgamRofJ1iWxAHD801DNu
+509,Elley Duhé,Traitor,Traitor,0.609,0.43,8,-8.242,1,0.0547,1.13e-06,0.0996,0.401,172.482,177507,3,alt z,13AxsHppGvU1LsftFSuAJV
+510,Charlie Puth,Light Switch (Instrumental),Light Switch,0.69,0.626,6,-5.693,1,0.306,0.000335,0.0881,0.912,184.009,185681,4,dance pop,3AVXwaOGCEL8cmBecfcsFJ
+511,Billie Eilish,lovely (with Khalid),lovely (with Khalid),0.351,0.296,4,-10.109,0,0.0333,0,0.095,0.12,115.284,200186,4,art pop,0u2P5u6lvoDfwTYjAADbn4
+512,Doja Cat,Planet Her,Need to Know,0.664,0.609,1,-6.509,1,0.0707,0,0.0926,0.194,130.041,210560,4,dance pop,3Vi5XqYrmQgOYBajMWSvCi
+513,James Hype,Dancing,Dancing,0.74,0.877,1,-8.357,1,0.0497,0.544,0.0886,0.377,125.033,240480,4,deep groove house,7xbBNB9bivza5vrYfnZJYg
+514,ROSALÍA,MOTOMAMI,BIZCOCHITO,0.93,0.774,1,-4.203,1,0.0744,0.0238,0.12,0.781,116.972,109120,4,r&b en espanol,4kXxEhuatrvwrTQycA7s9B
+515,Rema,Rave & Roses,Soundgasm,0.805,0.525,6,-7.376,0,0.0638,0.00203,0.0779,0.693,100.033,204755,4,nigerian pop,2psl5iNJCrmmm2XtS7LZqb
+516,Steve Lacy,Apollo XXI,N Side,0.838,0.536,2,-6.288,1,0.0435,0.000259,0.208,0.89,119.956,224444,4,afrofuturism,24G1PXBWoRgV0wDXZKwxzz
+517,Jessie J,Sweet Talker (Deluxe Version),Bang Bang,0.706,0.786,0,-3.417,0,0.091,0,0.38,0.751,150.028,199387,4,dance pop,0puf9yIluy9W0vpMEUoAnN
+518,Snoop Dogg,Sexy Songs 2020,I Wanna Fuck You,0.861,0.48,7,-8.433,1,0.0512,0,0.351,0.278,99.972,178840,4,unknown,2yGk5A4oipC4jvDLIVlQIJ
+519,DJ Khaled,GOD DID,USE THIS GOSPEL (feat. Ye & Eminem) - REMIX,0.681,0.807,10,-2.362,0,0.252,0,0.59,0.538,148.026,223533,4,hip hop,0O82CIwSU4tY11rQhxqAHC
+520,benny blanco,FRIENDS KEEP SECRETS 2,Graduation (with Juice WRLD),0.728,0.643,0,-5.353,1,0.248,0,0.123,0.62,155.009,176213,4,electropop,5E9YnE354Ua2h05nu4lmcA
+521,Pharrell Williams,G I R L,"Happy - From ""Despicable Me 2""",0.647,0.822,5,-4.662,0,0.183,0,0.0908,0.962,160.019,232720,4,hip hop,60nZcImufyMA1MKQY3dcCH
+522,Lil Nas X,Panini,Panini,0.703,0.594,5,-6.146,0,0.0752,0,0.123,0.475,153.848,114893,4,lgbtq+ hip hop,1000nHvUdawXuUHgBod4Wv
+523,Elton John,Elton John,Your Song,0.554,0.315,3,-11.028,1,0.0298,5.53e-06,0.101,0.325,128.157,241787,4,glam rock,38zsOOcu31XbbYj9BIPUF1
+524,Duki,Desde el Fin del Mundo,Malbec,0.705,0.692,9,-6.476,0,0.0357,0,0.13,0.444,122.991,175890,4,argentine hip hop,6KEb17S00Inf0v1qYDgUAj
+525,BTS,MAP OF THE SOUL : PERSONA,Boy With Luv (feat. Halsey),0.645,0.862,11,-4.761,0,0.0845,0,0.193,0.803,119.947,229773,4,k-pop,4a9tbd947vo9K8Vti9JwcI
+526,Rex Orange County,WHO CARES?,AMAZING,0.719,0.461,8,-8.191,1,0.0454,0,0.0875,0.548,123.915,209200,4,bedroom pop,3OM6qQmdFV6uy61GIqpRtf
+527,Snoop Dogg,Sweat (Snoop Dogg Vs. David Guetta) [Remix],Sweat - Remix,0.813,0.732,7,-5.636,1,0.03,0.00137,0.0826,0.731,130.02,195987,4,g funk,0R7YVi7w41Dr9jU5vblAok
+528,DJ Khaled,GOD DID,Juice WRLD DID (feat. Juice WRLD),0.652,0.716,1,-4.012,0,0.166,0,0.11,0.681,147.959,207650,4,hip hop,47IySiC5o08gz0z5VDiH93
+529,Britney Spears,Circus (Deluxe Version),If U Seek Amy,0.717,0.587,4,-7.296,0,0.0339,0,0.0523,0.544,129.954,216520,4,dance pop,2hdy9Wt9qp7M7d0U3ossu2
+530,Lost Frequencies,Love To Go,Love To Go,0.755,0.783,11,-6.256,1,0.176,0.00663,0.203,0.419,104.022,169354,4,belgian edm,14d79QOV2pvJHH9vlUfZwJ
+531,Juseph,Yatekomo,Yatekomo,0.849,0.647,10,-6.935,1,0.179,0,0.0858,0.576,89.988,213354,4,unknown,7ILwxghUppFKHnAJ5ziB8X
+532,Harry Styles,Fine Line,Adore You,0.676,0.771,8,-3.675,1,0.0483,7e-06,0.102,0.569,99.048,207133,4,pop,3jjujdWJ72nww5eGnfs2E7
+533,Lost Frequencies,Chemical High,Chemical High,0.72,0.823,6,-6.119,0,0.036,0.0004,0.274,0.782,117.988,158019,4,belgian edm,01mt0RLXC0DQ4VPQpV6WWy
+534,D-Block Europe,Home Alone 2,Overseas,0.838,0.623,8,-7.524,0,0.354,0,0.307,0.811,135.935,222155,4,uk hip hop,337kcYVjYXdLBItCw9ry3b
+535,Bad Bunny,Un Verano Sin Ti,Después de la Playa,0.564,0.903,5,-3.221,1,0.307,0,0.175,0.607,78.293,230400,4,latin,1dm6z1fWB0cErMszU25dy2
+536,Nicky Youre,Sex and Lemonade,Sex and Lemonade,0.718,0.684,7,-13.27,1,0.0614,2.39e-05,0.0922,0.601,110.153,163636,4,unknown,0zUT7pdUCFQxRW8SMdJBO0
+537,Harry Styles,Harry's House,Daylight,0.686,0.445,0,-7.189,1,0.0398,0.00144,0.175,0.626,145.5,164533,3,pop,51Zw1cKDgkad0CXv23HCMU
+538,Moglii,Tonic Water (dazy Remix),Tonic Water - dazy Remix,0.809,0.411,6,-9.417,0,0.0373,0.165,0.223,0.399,127.96,140625,4,vapor soul,7zn3MMeHjee0OZAtsLMDxN
+539,SZA,Ctrl,Broken Clocks,0.692,0.684,6,-7.364,1,0.155,0,0.156,0.406,112.912,231253,4,pop,2fXwCWkh6YG5zU1IyvQrbs
+540,Nicky Youre,Never Go Wrong,Never Go Wrong,0.585,0.835,5,-6.453,1,0.113,0,0.275,0.93,164.988,155963,4,unknown,7cLvLpnhpnQtea3ETMYgV5
+541,Beyoncé,RENAISSANCE,ENERGY (feat. Beam),0.903,0.519,1,-9.151,1,0.26,0.000106,0.155,0.587,114.991,116727,4,dance pop,0314PeD1sQNonfVWix3B2K
+542,Lost Frequencies,Cup Of Beats (Deluxe),Don't Leave Me Now,0.671,0.752,6,-6.806,0,0.0304,0,0.112,0.717,124.998,195080,4,belgian edm,7JD624kzfc6wCWRpJ8ndTL
+543,Justin Timberlake,FutureSex/LoveSounds Deluxe Edition,My Love (feat. T.I.),0.771,0.68,11,-5.881,0,0.224,1.18e-05,0.682,0.808,119.952,276160,4,dance pop,4NeOWqHmlrGRuBvsLJC9rL
+544,Justin Timberlake,FutureSex/LoveSounds,SexyBack (feat. Timbaland),0.967,0.583,7,-5.562,0,0.0789,0,0.0519,0.964,117.0,242733,4,dance pop,0O45fw2L5vsWpdsOdXwNAR
+545,Meek Mill,"That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]","That's My N**** (with Meek Mill, YG & Snoop Dogg)",0.723,0.732,11,-5.514,1,0.0864,0,0.484,0.503,104.991,199747,4,hip hop,3i1B1PnsfnOQPGVIzhf1lr
+546,Tems,For Broken Ears,Damages,0.712,0.497,1,-8.106,1,0.431,2.65e-05,0.125,0.516,128.385,169412,5,afro r&b,3Xfwu3xtPqmJ4nM4jpBm8O
+547,Gryffin,Gravity,Tie Me Down (with Elley Duhé),0.608,0.845,6,-2.292,1,0.0597,0,0.111,0.322,98.976,218240,4,dance pop,2zh01m4PiHaZz4BAm0NRxs
+548,Bizarrap,"Paulo Londra: Bzrp Music Sessions, Vol. 23","Paulo Londra: Bzrp Music Sessions, Vol. 23",0.456,0.91,0,-2.659,1,0.136,0,0.0921,0.329,95.927,258542,4,argentine hip hop,2uky0VCI2EZni0nArOPznM
+549,Imagine Dragons,Night Visions,Demons,0.505,0.71,3,-3.015,1,0.0321,0.00025,0.329,0.428,89.938,175200,4,modern rock,3LlAyCYU26dvFZBDUIMb7a
+550,KAROL G,GATÚBELA,GATÚBELA,0.627,0.858,11,-2.824,0,0.386,0,0.21,0.342,92.523,209160,4,latin,1ga4PztXOIw1yBbdUt2X8v
+551,Bazzi,Beautiful (feat. Camila Cabello),Beautiful (feat. Camila Cabello),0.638,0.717,2,-4.722,1,0.0337,0,0.105,0.249,100.027,180000,4,dance pop,4VUwkH455At9kENOfzTqmF
+552,JAE5,Dimension (feat. Skepta & Rema),Dimension (feat. Skepta & Rema),0.561,0.722,4,-6.437,0,0.068,4.86e-05,0.175,0.173,103.099,234027,4,unknown,2Jy4EdqIZswDZvVDh5dx3A
+553,Calum Scott,Only Human (Deluxe),You Are The Reason,0.329,0.235,10,-7.699,1,0.0303,0,0.137,0.22,171.006,204326,3,neo mellow,69vToJ9BMbbLlFZo7k7A7B
+554,Vintage Culture,You Give Me A Feeling,You Give Me A Feeling,0.761,0.867,2,-6.168,1,0.0499,0.615,0.0689,0.679,126.03,185896,4,brazilian edm,1YKp8PG1DEQJ0hLc2CJGO8
+555,Summer Walker,Still Over It,No Love (with SZA),0.707,0.618,1,-5.825,0,0.19,0,0.293,0.517,133.876,231498,4,pop,08SB2OtZkaliju77WYEKxk
+556,Michael Jackson,XSCAPE,Love Never Felt So Good,0.775,0.719,7,-6.212,0,0.0435,1.79e-06,0.0662,0.712,117.513,246027,4,pop,48td6xvpokdYwvbl3JIiXP
+557,Justin Bieber,Justice,Hold On,0.658,0.634,1,-6.068,0,0.0431,0,0.12,0.302,140.002,170813,4,canadian pop,1nahzW3kfMuwReTka28tH5
+558,Charlie Puth,That's Hilarious,That's Hilarious,0.714,0.442,6,-5.909,1,0.0605,0,0.114,0.546,108.039,146855,4,dance pop,1jIMjbzcGCcCQn5iMu9CUc
+559,Calvin Harris,Motion,Summer,0.596,0.856,4,-3.556,0,0.0346,0.0178,0.141,0.743,127.949,222533,4,dance pop,6YUTL4dYpB9xZO5qExPf05
+560,Camila Cabello,Familia,Bam Bam (feat. Ed Sheeran),0.756,0.697,8,-6.377,1,0.0401,0,0.333,0.956,94.996,206071,4,dance pop,2DB4DdfCFMw1iaR6JaR03a
+561,Tems,If Orange Was A Place,Replay,0.613,0.549,9,-8.187,1,0.231,0,0.116,0.78,123.879,180000,5,afro r&b,2dFqK2ZkYB9Xc47gr3xXWl
+562,Megan Thee Stallion,Good News,Body,0.914,0.732,8,-6.1,0,0.241,0,0.107,0.469,94.066,171067,4,dance pop,0A1hoCfMLkiAgvhWkkucJa
+563,Calum Scott,Bridges,Cross Your Mind,0.33,0.554,9,-6.528,1,0.0547,0,0.0847,0.235,169.112,212950,4,neo mellow,5sPaFuUttXaGeMhq1HKJG5
+564,Burna Boy,"Love, Damini",For My Hand (feat. Ed Sheeran),0.87,0.479,9,-7.779,1,0.165,0.000157,0.209,0.717,104.059,159124,4,afro dancehall,0HaRLPnr887lcQM2YQzkff
+565,Machine Gun Kelly,Tickets To My Downfall,forget me too (feat. Halsey),0.654,0.875,1,-4.845,1,0.0744,0.0086,0.194,0.522,99.975,171621,4,ohio hip hop,1VSuFS7PahCN3SWbOcQ98m
+566,Doja Cat,Planet Her,Ain't Shit,0.855,0.488,3,-4.601,1,0.208,0,0.347,0.619,124.097,174253,4,dance pop,5lAnYvAIkSDNXqfo7DyFUm
+567,Stormzy,Heavy Is The Head,Own It (feat. Ed Sheeran & Burna Boy),0.817,0.781,7,-4.178,0,0.112,5.21e-06,0.123,0.359,104.0,216707,4,grime,4QPEwDdOMhY7rNS05mTyMR
+568,Maroon 5,JORDI (Deluxe),Beautiful Mistakes (feat. Megan Thee Stallion),0.713,0.676,10,-5.483,1,0.027,0,0.154,0.721,99.048,227395,4,pop,5zFglKYiknIxks8geR8rcL
+569,Burna Boy,"Love, Damini",Cloak & Dagger (feat. J Hus),0.62,0.601,8,-6.635,1,0.221,0.00108,0.271,0.46,103.748,211050,4,afro dancehall,0cE68B5sCz9f3snJ5ueTGZ
+570,Rex Orange County,Best Friend,Best Friend,0.575,0.714,6,-5.247,1,0.0596,0,0.115,0.32,144.982,262231,4,bedroom pop,47Bg6IrMed1GPbxRgwH2aC
+571,Imagine Dragons,Evolve,Whatever It Takes,0.672,0.655,10,-5.021,0,0.0311,0,0.117,0.556,134.945,201240,4,modern rock,6Qn5zhYkTa37e91HC1D7lb
+572,Lost Frequencies,Questions,Questions,0.599,0.713,11,-7.008,1,0.0542,2.53e-05,0.266,0.518,123.962,177157,4,belgian edm,1cgy2FSOQMbq7DHCVgMAUA
+573,Juice WRLD,Legends Never Die,Come & Go (with Marshmello),0.625,0.814,0,-5.181,1,0.0657,0,0.158,0.535,144.991,205485,4,chicago rap,2Y0wPrPQBrGhoLn14xRYCG
+574,David Guetta,7,Say My Name,0.703,0.66,10,-5.119,0,0.123,0,0.192,0.79,95.031,198947,4,big room,3MoV1UsAJmz64LHqyiRMp0
+575,Ed Sheeran,=,Overpass Graffiti,0.52,0.849,9,-3.794,0,0.186,0,0.119,0.774,175.908,236907,4,pop,4btFHqumCO31GksfuBLLv3
+576,Ed Sheeran,No.6 Collaborations Project,South of the Border (feat. Camila Cabello & Cardi B),0.857,0.621,9,-6.376,0,0.0825,0,0.0865,0.668,97.989,204467,4,pop,4vUmTMuQqjdnvlZmAH61Qk
+577,Post Malone,Hollywood's Bleeding,Goodbyes (feat. Young Thug),0.548,0.653,5,-3.875,1,0.081,0,0.103,0.163,150.068,174853,4,dfw rap,0t3ZvGKlmYmVsDzBJAXK8C
+578,James Hype,Good Luck,Good Luck,0.701,0.836,8,-6.093,1,0.051,0,0.248,0.712,125.927,147598,4,deep groove house,04oTyEbJ190RfXWSlTP4b7
+579,Post Malone,Stoney (Deluxe),Congratulations,0.63,0.804,6,-4.183,1,0.0363,0,0.253,0.492,123.146,220293,4,dfw rap,3a1lNhkSLSkpJE4MSHpDu9
+580,Dua Lipa,Dua Lipa (Deluxe),New Rules,0.762,0.7,9,-6.021,0,0.0694,1.56e-05,0.153,0.608,116.073,209320,4,dance pop,2ekn2ttSfGqwhhate0LSR0
+581,OneRepublic,Waking Up,Secrets,0.516,0.764,2,-6.223,1,0.0366,0,0.115,0.376,148.021,224693,4,dance pop,1NhPKVLsHhFUHIOZ32QnS2
+582,Elton John,Goodbye Yellow Brick Road (Remastered),Bennie And The Jets - Remastered 2014,0.665,0.673,0,-7.95,1,0.0493,7.62e-06,0.497,0.779,132.642,322549,4,glam rock,5Wj1rJnCLpMHdLaxsFtJLs
+583,OneRepublic,Human (Deluxe),Run,0.682,0.72,11,-8.176,0,0.0382,0,0.205,0.649,116.988,168260,4,dance pop,6KL88T4Ma4ABXqzgUoEwkd
+584,Imagine Dragons,Evolve,Thunder,0.605,0.822,0,-4.833,1,0.0438,0.134,0.147,0.288,167.997,187147,4,modern rock,1zB4vmk8tFRmM9UULNzbLB
+585,Nicky Youre,Sunroof (feat. 24kGoldn),Sunroof (feat. 24kGoldn),0.77,0.686,10,-6.568,1,0.046,0,0.185,0.89,131.478,162535,4,unknown,0u0eGWwyJmOVoG6ld4uNm0
+586,Drake,"Honestly, Nevermind",Sticky,0.853,0.495,6,-14.63,1,0.14,0.000217,0.0844,0.0774,137.027,243228,4,canadian hip hop,4rmVZajAF7PkrCagGPHbqa
+587,Lost Frequencies,Armada Night Radio 119 (Incl. Estiva Guest Mix),Are You With Me (ANR119) **Label Spotlight (The Bearded Man) - Blast From The Past**,0.798,0.544,5,-9.597,0,0.0399,2.2e-05,0.38,0.508,121.033,141391,4,unknown,0uDmaiVFDHhIFE6mIjHpQq
+588,NewJeans,NewJeans 1st EP 'New Jeans',Cookie,0.847,0.638,0,-3.764,1,0.0575,0,0.0894,0.661,156.935,235562,4,unknown,2DwUdMJ5uxv20EhAildreg
+589,Drake,Scary Hours 2,Wants and Needs (feat. Lil Baby),0.578,0.449,1,-6.349,1,0.286,2.17e-06,0.119,0.1,136.006,192956,4,canadian hip hop,65OVbaJR5O1RmwOQx0875b
+590,Central Cee,Wild West,Day in the Life,0.905,0.571,2,-7.979,1,0.357,0,0.113,0.757,144.892,188690,4,drill brasileiro,1o6x7iRcDQPEEg8YPgLeVA
+591,BLACKPINK,SQUARE ONE,WHISTLE,0.818,0.723,11,-4.82,1,0.114,0,0.0866,0.607,102.945,211632,4,k-pop,6NEoeBLQbOMw92qMeLfI40
+592,Imagine Dragons,Evolve,Believer,0.776,0.78,10,-4.374,0,0.128,0,0.081,0.666,124.949,204347,4,modern rock,0pqnGHJpmpxLKifKRmU6WP
+593,La Pantera,"Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]","Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",0.672,0.745,5,-5.269,0,0.3,9.29e-06,0.0699,0.739,173.974,413111,4,rap canario,0Bv7O6fmZk3GrNQFYJaXPn
+594,Lizzo,Special,About Damn Time,0.836,0.743,10,-6.305,0,0.0653,0,0.335,0.723,108.965,191938,4,dance pop,6HMtHNpW6YPi1hrw9tgF8P
+595,Harry Styles,Harry's House,Music For a Sushi Restaurant,0.72,0.715,11,-4.652,1,0.04,0.0568,0.107,0.357,107.041,193813,4,pop,5LYMamLv12UPbemOaTPyeV
+596,Megan Thee Stallion,Traumazine,Her,0.945,0.848,1,-4.76,1,0.326,3.31e-05,0.101,0.819,119.918,137107,4,dance pop,5hHvFrMnwic82WwRLr4WY0
+597,Juice WRLD,Real Shit (with benny blanco),Real Shit (with benny blanco),0.703,0.703,1,-4.672,1,0.133,0,0.12,0.697,76.017,183783,4,chicago rap,3uVPLtkmDu8pDkYEAVqbgS
+598,Joji,Nectar,Like You Do,0.582,0.199,10,-10.045,1,0.0321,0.00852,0.135,0.0783,66.454,240294,4,viral pop,3xo4Q43ei0ypZOvd2W1IqZ
+599,Jack Harlow,Come Home The Kids Miss You,Nail Tech,0.677,0.557,1,-8.409,1,0.0694,8.36e-06,0.0984,0.1,150.127,206385,4,deep underground hip hop,3ioJs8DQw527GmqJIp5gZG
+600,Rema,Woman,Woman,0.84,0.687,11,-7.203,0,0.1,2.2e-06,0.115,0.678,113.038,238912,4,nigerian pop,62N0RkCCs4XQXk7hgnpOXo
+601,Lizzo,About Damn Time (Purple Disco Machine Remix),About Damn Time - Purple Disco Machine Remix,0.8,0.771,10,-6.638,0,0.123,0,0.229,0.886,118.991,218476,4,dance pop,4WIaDYUIlXsHi4yMF596aI
+602,Quevedo,Ahora y Siempre,Ahora y Siempre,0.659,0.629,4,-7.86,1,0.0825,0,0.422,0.416,118.964,149275,4,rap canario,4iaNmAvcZ6sPGvgZ6vQQdx
+603,Calvin Harris,This Is What You Came For,This Is What You Came For,0.631,0.927,9,-2.787,0,0.0332,0.119,0.148,0.465,123.962,222160,4,dance pop,0azC730Exh71aQlOt9Zj3y
+604,The Kid LAROI,F*CK LOVE (SAVAGE),"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",0.721,0.632,5,-6.695,0,0.0358,0,0.291,0.296,92.057,144860,4,australian hip hop,0DYNL4xbYWgNzppUamtyR4
+605,Britney Spears,Oops!... I Did It Again,Oops!...I Did It Again,0.751,0.834,1,-5.444,0,0.0437,1.77e-05,0.355,0.894,95.053,211160,4,dance pop,6naxalmIoLFWR0siv8dnQQ
+606,Calvin Harris,18 Months,Feel So Close - Radio Edit,0.707,0.924,7,-2.842,1,0.031,0.00703,0.204,0.919,127.937,206413,4,dance pop,1gihuPhrLraKYrJMAEONyc
+607,James Hype,More Than Friends,More Than Friends,0.81,0.885,5,-4.583,0,0.108,0,0.268,0.447,122.985,140698,4,deep groove house,53SnCRcGrB2UCqNGyYZhJD
+608,Jack Harlow,Come Home The Kids Miss You,First Class,0.902,0.582,5,-5.902,0,0.109,3.18e-06,0.111,0.332,107.005,173948,4,deep underground hip hop,0wHFktze2PHC5jDt3B17DC
+609,Yung Gravy,Sensational,Magic,0.791,0.718,10,-6.343,0,0.0643,0,0.334,0.422,108.049,177653,4,minnesota hip hop,7qRBXrTLfhdyG7bi6DuURv
+610,Lil Nas X,MONTERO,MONTERO (Call Me By Your Name),0.593,0.503,8,-6.725,0,0.22,0,0.405,0.71,178.781,137704,4,lgbtq+ hip hop,1SC5rEoYDGUK4NfG82494W
+611,Dove Cameron,Descendants 2 (Original TV Movie Soundtrack),It's Goin' Down,0.478,0.851,6,-5.936,0,0.377,0,0.48,0.575,155.856,252218,4,unknown,537mRuCCiKQNFlN1vdSl1k
+612,Jack Harlow,Sweet Action,I WANNA SEE SOME ASS (feat. jetsonmade),0.899,0.691,0,-7.554,1,0.0497,0.000451,0.135,0.865,107.951,125302,4,deep underground hip hop,2aWVaW1p2kUc5yuKwBmRJi
+613,Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,gauze pop,02MWAaffLxlfxAUY7c5dvx
+614,ROSALÍA,MOTOMAMI,LA COMBI VERSACE,0.835,0.495,8,-5.791,1,0.522,0.000206,0.103,0.426,90.97,161267,4,r&b en espanol,5gCNf9wMVrYuM2fvfgLTlF
+615,Zedd,Happy Now (Acoustic),Happy Now - Acoustic,0.625,0.33,4,-6.908,1,0.067,0,0.121,0.548,161.259,152000,4,complextro,6cWpGXt8X3WqHYnnDeNiKV
+616,Glass Animals,Heat Waves (Expansion Pack),Heat Waves - Slowed,0.633,0.55,9,-9.965,1,0.0924,0.000363,0.147,0.333,147.099,262248,4,gauze pop,1K2RnVhm3eauKnA8PAcPu1
+617,OneRepublic,West Coast,West Coast,0.685,0.699,6,-7.803,0,0.0349,0,0.0895,0.884,134.057,192948,4,dance pop,0sBJA2OCEECMs0HsdIQhvR
+618,Yung Gravy,Snow Cougar,1 Thot 2 Thot Red Thot Blue Thot,0.79,0.768,6,-5.638,1,0.284,0.000947,0.126,0.691,80.029,131139,4,minnesota hip hop,7LptQZjp5wgdYDQZPjOV9O
+619,Tiësto,Don't Be Shy,Don't Be Shy,0.77,0.787,11,-3.748,0,0.0583,0,0.262,0.513,119.986,140500,4,big room,0bI7K9Becu2dtXK1Q3cZNB
+620,Martin Garrix,In the Name of Love,In the Name of Love,0.501,0.519,4,-5.88,0,0.0409,0,0.454,0.168,133.99,195707,4,dance pop,23L5CiUhw2jV1OIMwthR3S
+621,Megan Thee Stallion,Traumazine,Plan B,0.898,0.522,7,-5.872,1,0.337,0,0.108,0.675,85.054,163765,4,dance pop,3A4U3uNNsMaI1vWBey3VYH
+622,Banda MS de Sergio Lizárraga,Qué Maldición,Qué Maldición,0.755,0.531,9,-8.051,0,0.196,0,0.13,0.683,177.951,203360,4,banda,2RxC2peY3FtrurYmbbmanr
+623,Yung Gravy,Gasanova,oops!,0.886,0.743,6,-6.797,0,0.0812,0.000198,0.0511,0.941,131.902,139760,4,minnesota hip hop,7L6G0wpIUiPXuvoo7qhb06
+624,Lizzo,Cuz I Love You (Super Deluxe),Good as Hell,0.682,0.919,0,-3.18,0,0.0875,0,0.442,0.535,95.982,159736,4,dance pop,6KgBpzTuTRPebChN0VTyzV
+625,Drake,Certified Lover Boy,Knife Talk (with 21 Savage ft. Project Pat),0.849,0.424,5,-9.579,0,0.324,0,0.0834,0.153,145.887,242966,4,canadian hip hop,2BcMwX1MPV6ZHP4tUT9uq6
+626,DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",0.842,0.801,8,-4.167,0,0.228,4.82e-06,0.0642,0.617,95.881,212500,4,dance pop,4w8niZpiMy6qz1mntFA5uM
+627,OneRepublic,Waking Up,Good Life,0.634,0.69,6,-7.804,1,0.052,0,0.132,0.645,94.988,253307,4,dance pop,6OtCIsQZ64Vs1EbzztvAv4
+628,BLACKPINK,SQUARE ONE,BOOMBAYAH,0.661,0.836,5,-3.164,0,0.059,0,0.497,0.396,124.952,240793,4,k-pop,13MF2TYuyfITClL1R2ei6e
+629,Justin Bieber,Purpose (Deluxe),Love Yourself,0.609,0.378,4,-9.828,1,0.438,0,0.28,0.515,100.418,233720,4,canadian pop,50kpGaPAhYJ3sGmk6vplg0
+630,Joji,In Tongues (Deluxe),Will He,0.618,0.217,10,-15.372,1,0.0515,0.000163,0.538,0.0872,116.014,202103,4,viral pop,7wvwXi9Z66dcH5t202vVkN
+631,Lizzo,Rumors (feat. Cardi B),Rumors (feat. Cardi B),0.827,0.731,4,-5.524,0,0.088,0,0.418,0.607,118.992,172833,4,dance pop,6KgtcmCF9Ky68XC7ezxl3s
+632,SZA,Ctrl,Love Galore (feat. Travis Scott),0.795,0.594,0,-6.2,1,0.0748,0,0.162,0.409,135.002,275080,4,pop,0q75NwOoFiARAVp4EXU4Bs
+633,Bebe Rexha,Expectations,I'm a Mess,0.63,0.694,11,-6.257,0,0.0253,0,0.0719,0.216,97.005,195519,4,dance pop,04ZTP5KsCypmtCmQg5tH9R
+634,Glass Animals,How To Be A Human Being,Life Itself,0.699,0.67,1,-6.219,1,0.0347,0.22,0.356,0.556,111.988,281407,4,gauze pop,32zkKx35Et6A515oZKxDkD
+635,NewJeans,NewJeans 1st EP 'New Jeans',Hurt,0.599,0.446,10,-6.511,0,0.0833,0,0.105,0.567,179.877,177947,4,unknown,5expoVGQPvXuwBBFuNGqBd
+636,James Hype,Ferrari (Oliver Heldens Remix),Ferrari - Oliver Heldens Remix,0.73,0.903,1,-5.64,0,0.0427,0.252,0.0998,0.694,124.957,188640,4,deep groove house,0oCNRAmwLo4zHDpCKpjQtI
+637,Bad Bunny,Un Verano Sin Ti,Neverita,0.876,0.498,10,-7.511,1,0.0478,0,0.143,0.428,122.016,173119,4,latin,31i56LZnwE6uSu3exoHjtB
+638,Topic,Chain My Heart,Chain My Heart,0.663,0.849,11,-4.462,0,0.0334,1.2e-06,0.192,0.722,123.992,146880,4,dance pop,67lbzVADsqJJ6tyVk0XCgn
+639,Imagine Dragons,Mercury - Acts 1 & 2,Sharks,0.927,0.642,10,-4.466,0,0.0657,3.62e-05,0.279,0.901,123.969,190883,4,modern rock,7sA2SKTo1QbTSSYn5YvJC4
+640,KAROL G,SEJODIOTO,SEJODIOTO,0.822,0.736,1,-3.969,1,0.15,0.000781,0.0748,0.679,175.93,181107,4,latin,704LUEih663hiE3CnyUrFW
+641,Jung Kook,Stay Alive (Prod. SUGA of BTS),Stay Alive (Prod. SUGA of BTS),0.512,0.76,2,-5.889,0,0.0682,0,0.103,0.495,130.096,210928,4,unknown,7CAdT0HdiQNlt1C7xk2hep
+642,TINI,Maldita Foto,Maldita Foto,0.743,0.674,2,-4.201,1,0.129,0,0.0986,0.932,174.024,190345,4,latin pop,4WkEH0PgystZUaN6QU6Z0B
