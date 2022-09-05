@@ -55,7 +55,7 @@ class SpotifyClient:
                 raise Exception("Authorization Failes")
 
 
-def retrieve_playlists(sp: spotipy.Spotify, creator: str, offset: int = None) -> list[str]:
+def retrieve_playlists(sp: spotipy.Spotify, creator: str, offset: int = None) -> pd.DataFrame:
     """
     Retrieve playlists ids created by a certain user
     """
@@ -64,17 +64,28 @@ def retrieve_playlists(sp: spotipy.Spotify, creator: str, offset: int = None) ->
             yield
 
     playlists_ids = list()
+    playlists_uris = list()
+    playlists_names = list()
     playlists = sp.user_playlists(creator)
     for _ in (pbar := tqdm(generator())):
         pbar.set_description("Extracting playlists ids")
         for i, playlist in enumerate(playlists['items']):
             playlists_ids.append(playlist['id'])
+            playlists_uris.append(playlist['uri'])
+            playlists_names.append(playlist['name'])
         if playlists['next']:
             playlists = sp.next(playlists)
         else:
             break
+    
+    # export in a pd.Dataframe
+    playlists_df = pd.DataFrame()
+    playlists_df['name'] = playlists_names
+    playlists_df['uri'] = playlists_uris
+    playlists_df = playlists_df.set_index(keys=playlists_ids, drop=True)
 
-    return playlists_ids
+
+    return playlists_df
 
 def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.DataFrame:
     
@@ -87,27 +98,34 @@ def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.
     
     playlist = sp.user_playlist_tracks(creator, playlist_id)["items"]
     for track in playlist:
-        # Create empty dict
-        playlist_features = {}
-        # Get metadata
-        playlist_features["artist"] = track["track"]["album"]["artists"][0]["name"]
-        playlist_features["album"] = track["track"]["album"]["name"]
-        playlist_features["track_name"] = track["track"]["name"]
-        playlist_features["track_id"] = track["track"]["id"]
-        try:
-            playlist_features["genres"] = sp.artist(track["track"]["album"]["artists"][0]["id"])["genres"][0] # TODO: add genre handling
-        except:
-            playlist_features["genres"] = 'unknown'
-        
-        # Get audio features
-        audio_features = sp.audio_features(playlist_features["track_id"])[0]
-        for feature in playlist_features_list[4:]:
-            playlist_features[feature] = audio_features[feature]
-        
-        # Concat the dfs
-        track_df = pd.DataFrame(playlist_features, index = [0])
-        playlist_df = pd.concat([playlist_df, track_df], ignore_index = True)
-        
+        if track["track"]:
+            # Create empty dict
+            playlist_features = {}
+            # Get metadata
+            try:
+                playlist_features["artist"] = track["track"]["album"]["artists"][0]["name"]
+            except:
+                playlist_features["artist"] = 'Unknown'
+            playlist_features["album"] = track["track"]["album"]["name"]
+            playlist_features["track_name"] = track["track"]["name"]
+            playlist_features["track_id"] = track["track"]["id"]
+            try:
+                playlist_features["genres"] = sp.artist(track["track"]["album"]["artists"][0]["id"])["genres"][0] # TODO: add genre handling
+            except:
+                playlist_features["genres"] = 'unknown'
+            
+            # Get audio features
+            audio_features = sp.audio_features(playlist_features["track_id"])[0]
+            for feature in playlist_features_list[4:]:
+                try:
+                    playlist_features[feature] = audio_features[feature]
+                except:
+                    playlist_features[feature] = 'Unknown'
+            
+            # Concat the dfs
+            track_df = pd.DataFrame(playlist_features, index = [0])
+            playlist_df = pd.concat([playlist_df, track_df], ignore_index = True)
+            
     return playlist_df
 
 def retrieve_artists_id(sp:spotipy.Spotify, songs: pd.DataFrame) -> list:
@@ -180,5 +198,9 @@ def enrich_songs(sp: spotipy.Spotify, top_10_tracks_ids_filtered, songs):
         enriching_playlist_df = pd.concat([enriching_playlist_df, track_df], ignore_index = True)
 
     # Concat with previous playlist
-    enriching_playlist_df = pd.concat([songs, enriching_playlist_df], ignore_index=True, axis=0)
+     # Clean the duplicates track and export 
+    enriching_playlist_df = enriching_playlist_df.set_index("track_id")
+    enriching_playlist_df = enriching_playlist_df.drop_duplicates()
+    enriching_playlist_df = pd.concat([songs, enriching_playlist_df], axis=0)
+    enriching_playlist_df = enriching_playlist_df.drop_duplicates()
     return enriching_playlist_df

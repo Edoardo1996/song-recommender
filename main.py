@@ -10,25 +10,16 @@ def main():
     client = SpotifyClient(config.CLIENT_ID, config.CLIENT_SECRET)
     sp = client.authorize()
 
-    # Retrieve all playlists ids
-    playlists_ids = retrieve_playlists(sp, "spotify")
-
-    # Get all songs' features from the playlists if database has not been created yet -TODO: handle db if it was already created
-    # if os.path.exists(config.DB_PATH):
-    #     songs = pd.read_csv(config.DB_PATH)
-    # else:
-    #     songs = pd.DataFrame()
-    #     for id in (pbar := tqdm(playlists_ids[:2])):
-    #         pbar.set_description("Retrieving song features")
-    #         songs = pd.concat([songs, analyse_playlist(sp, 'spotify', id)], axis=0, ignore_index=True)
-    #     # Clean the duplicates track
-    #     songs = songs.set_index("track_id")
-    #     songs = songs.drop_duplicates()
-    #     songs.to_csv("songs.csv")
+    # Retrieve all playlists info
+    if not os.path.exists(config.PLAYLISTS_IDS_PATH):   
+        playlists = retrieve_playlists(sp, "spotify")
+    else:
+        print("Spotify playlists IDs already retrieved")
+        playlists = pd.read_csv(config.PLAYLISTS_IDS_PATH)
 
     # Get all songs' features from the playlists
     songs = pd.DataFrame()
-    for id in (pbar := tqdm(playlists_ids[:2])):
+    for id in (pbar := tqdm(playlists.index)):
         pbar.set_description("Retrieving song features")
         songs = pd.concat([songs, analyse_playlist(sp, 'spotify', id)], axis=0, ignore_index=True)
 
