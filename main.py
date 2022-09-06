@@ -1,3 +1,4 @@
+from operator import index
 from utils.songdb import *
 import utils.config as config
 from tqdm import tqdm
@@ -7,15 +8,21 @@ import os
 
 def main():
     # Set up authorization
-    client = SpotifyClient(config.CLIENT_ID, config.CLIENT_SECRET)
-    sp = client.authorize()
+    auth_manager = SpotifyClientCredentials(
+    client_id=config.CLIENT_ID,
+    client_secret=config.CLIENT_SECRET
+    )
+    sp = spotipy.Spotify(auth_manager=auth_manager)
+    # client = SpotifyClient(config.CLIENT_ID, config.CLIENT_SECRET)
+    # sp = client.authorize()
 
     # Retrieve all playlists info
     if not os.path.exists(config.PLAYLISTS_IDS_PATH):   
         playlists = retrieve_playlists(sp, "spotify")
+        playlists.to_csv(config.PLAYLISTS_IDS_PATH)
     else:
         print("Spotify playlists IDs already retrieved")
-        playlists = pd.read_csv(config.PLAYLISTS_IDS_PATH)
+        playlists = pd.read_csv(config.PLAYLISTS_IDS_PATH, index_col=0)
 
     # Get all songs' features from the playlists
     songs = pd.DataFrame()

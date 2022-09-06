@@ -82,7 +82,8 @@ def retrieve_playlists(sp: spotipy.Spotify, creator: str, offset: int = None) ->
     playlists_df = pd.DataFrame()
     playlists_df['name'] = playlists_names
     playlists_df['uri'] = playlists_uris
-    playlists_df = playlists_df.set_index(keys=playlists_ids, drop=True)
+    playlists_df['id'] = playlists_ids
+    playlists_df = playlists_df.set_index(keys='id', drop=True)
 
 
     return playlists_df
