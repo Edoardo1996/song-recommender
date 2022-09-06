@@ -1,3 +1,6 @@
+"""
+Environment configuration module
+"""
 from os import environ, path
 from dotenv import load_dotenv
 

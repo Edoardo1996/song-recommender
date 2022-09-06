@@ -90,6 +90,8 @@ def retrieve_playlists(sp: spotipy.Spotify, creator: str, offset: int = None) ->
     return playlists_df
 
 def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.DataFrame:
+
+    # TODO: loop only on not-duplicated track id
     
     # Create empty dataframe
     playlist_features_list = ['playlist_id', "artist","album","track_name",  "track_id","danceability","energy","key","loudness","mode", "speechiness","instrumentalness","liveness","valence","tempo", "duration_ms","time_signature"]
@@ -100,7 +102,7 @@ def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.
     
     playlist = sp.user_playlist_tracks(creator, playlist_id)["items"]
     for track in playlist:
-        if track["track"]:
+        if track["track"] and track["track"]["id"]:
             # Create empty dict
             playlist_features = {}
             # Remember playlist id
