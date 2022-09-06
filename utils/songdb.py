@@ -2,6 +2,7 @@
 Module for the creation of the songs' database, quierying the data from spotify 
 API
 """
+from operator import index
 import warnings
 import spotipy
 import pandas as pd
@@ -91,17 +92,19 @@ def retrieve_playlists(sp: spotipy.Spotify, creator: str, offset: int = None) ->
 def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.DataFrame:
     
     # Create empty dataframe
-    playlist_features_list = ["artist","album","track_name",  "track_id","danceability","energy","key","loudness","mode", "speechiness","instrumentalness","liveness","valence","tempo", "duration_ms","time_signature"]
+    playlist_features_list = ['playlist_id', "artist","album","track_name",  "track_id","danceability","energy","key","loudness","mode", "speechiness","instrumentalness","liveness","valence","tempo", "duration_ms","time_signature"]
     
     playlist_df = pd.DataFrame(columns = playlist_features_list)
     
-    # Loop through every track in the playlist, extract features and append the features to the playlist dLf
+    # Loop through every track in the playlist, extract features and append the features to the playlist df
     
     playlist = sp.user_playlist_tracks(creator, playlist_id)["items"]
     for track in playlist:
         if track["track"]:
             # Create empty dict
             playlist_features = {}
+            # Remember playlist id
+            playlist_features['playlist_id'] = playlist_id
             # Get metadata
             try:
                 playlist_features["artist"] = track["track"]["album"]["artists"][0]["name"]
@@ -117,7 +120,7 @@ def analyse_playlist(sp: spotipy.Spotify, creator: str, playlist_id: str) -> pd.
             
             # Get audio features
             audio_features = sp.audio_features(playlist_features["track_id"])[0]
-            for feature in playlist_features_list[4:]:
+            for feature in playlist_features_list[5:]:
                 try:
                     playlist_features[feature] = audio_features[feature]
                 except:
@@ -205,3 +208,19 @@ def enrich_songs(sp: spotipy.Spotify, top_10_tracks_ids_filtered, songs):
     enriching_playlist_df = pd.concat([songs, enriching_playlist_df], axis=0)
     enriching_playlist_df = enriching_playlist_df.drop_duplicates()
     return enriching_playlist_df
+
+def prep_for_append(all_songs: pd.DataFrame, songs: pd.DataFrame, 
+                    csv_path: str) -> pd.DataFrame:
+    """
+    Remove duplicates in playlists (if any) and in previuos found songs.
+    Set the index to track-id and append the results in a designated 
+    csv file
+    """
+    # Set track_id as index
+    songs = songs.set_index('track_id', drop=True)
+    # drop internal duplicates
+    songs = songs.drop_duplicates()
+    # drop external duplicates
+    duplicate_track_ids = [ids for ids in list(songs.index) if ids in list(all_songs.index)]
+    return songs.drop(duplicate_track_ids)
+
