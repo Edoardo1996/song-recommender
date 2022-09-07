@@ -1,9 +1,15 @@
-from operator import index
 from utils.songdb import *
-import utils.config as config
+from utils import config, sktools, cleaning
 from tqdm import tqdm
 import pandas as pd
 import os
+
+def data_preparation(db_path):
+    """
+    Prepares data for ML model
+    """
+    data = cleaning.load_data(db_path, index_col='track_id')
+    
 
 
 def main():
@@ -57,6 +63,9 @@ def main():
     enriched_songs = enrich_songs(sp, top_10_tracks_ids_filtered, all_songs)
     enriched_songs.to_csv(config.ENRICHED_DB_PATH)
 
+    # Clean retrieved dataset and prepare for ML model
+
+    # Train the model and save it to pickle
 
 if __name__ == '__main__':
     main()
