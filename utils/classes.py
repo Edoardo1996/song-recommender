@@ -50,6 +50,6 @@ class DataConverter(BaseEstimator, TransformerMixin):
         self.columns = columns
     def fit(self, X, y=None):
         return self
-    def tranform(self, X, y=None):
+    def transform(self, X, y=None):
         X[self.columns] = X[self.columns].astype(np.number)
         return X
