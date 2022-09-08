@@ -1,13 +1,14 @@
 """
 Module handling the ML model
 """
-from multiprocessing.connection import Pipe
 from utils.classes import NaNHandler, ColumnDropperTransformer, GenreModifier, DataConverter
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.cluster import KMeans
+from yellowbrick.cluster.elbow import kelbow_visualizer
+from yellowbrick.cluster import intercluster_distance
 import pandas as pd
-import numpy as np
 
 def build_pipeline(data: pd.DataFrame) -> Pipeline:
     # Variables, TODO: generealize process
@@ -47,5 +48,20 @@ def build_pipeline(data: pd.DataFrame) -> Pipeline:
     ])
 
     return full_pipeline
+
+def visualize_kmeans(data, krange=(2, 10)):
+    """
+    Generates some visualizations in order to find optimal k for
+    a KMEANS algotithm
+    """
+    # kelbow_visualizer(KMeans(random_state=42),
+    #                   data,
+    #                   k=(2,10),
+    #                   timings=False)
+
+    intercluster_distance(KMeans(n_clusters=60, random_state=42),
+                          data,
+                          embedding='mds', 
+                          random_state=42)
 
 

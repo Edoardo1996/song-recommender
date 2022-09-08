@@ -1,3 +1,4 @@
+from utils.model import build_pipeline
 from utils.songdb import *
 from utils import config, sktools, cleaning
 from tqdm import tqdm
@@ -64,6 +65,8 @@ def main():
     enriched_songs.to_csv(config.ENRICHED_DB_PATH)
 
     # Clean retrieved dataset and prepare for ML model
+    prep_pipeline = build_pipeline(songs) # TODO:  future -> enriched songs
+    songs_prep = prep_pipeline.fit_transform(songs)
 
     # Train the model and save it to pickle
 
